@@ -38,11 +38,13 @@ def update_readme(weather_info):
             start_index = i
             break
 
+    weather_info_str = f"## Weather in Takuapa, Phang Nga, Thailand\nTemperature: {weather_info['temperature']}°C {get_temperature_icon(weather_info['temperature'])}\n"
+
     if start_index is not None:
         end_index = start_index + 4  # Assuming weather info block is 4 lines long
-        readme_content[start_index:end_index] = [weather_info]
+        readme_content[start_index:end_index] = [weather_info_str]
     else:
-        readme_content.append(weather_info)
+        readme_content.append(weather_info_str)
 
     with open("README.md", "w") as file:
         file.writelines(readme_content)
