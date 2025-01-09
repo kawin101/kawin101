@@ -26,7 +26,14 @@ jobs:
           source .venv/bin/activate
           pip install requests gitpython
 
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: Run weather script
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           source .venv/bin/activate
           python weather.py
