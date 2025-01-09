@@ -34,9 +34,9 @@ def update_readme(weather):
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     weather_info = (
         "\n## Weather in Takuapa, Phang Nga, Thailand\n"
-        f"Date/Time: {current_time}\n"
-        f"Temperature: {temperature_icon} {weather['temperature']}°C\n"
-        f"Wind Speed: {weather['windspeed']} km/h\n"
+        f"Date/Time: {current_time}<br>\n"
+        f"Temperature: {temperature_icon} {weather['temperature']}°C<br>\n"
+        f"Wind Speed: {weather['windspeed']} km/h<br>\n"
     )
 
     start_index = None
