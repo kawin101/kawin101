@@ -71,7 +71,8 @@ def push_to_github():
     repo.git.add('README.md')
     repo.index.commit('Update weather information')
     origin = repo.remote(name='origin')
-    origin.push(f"https://{os.getenv('GH_TOKEN')}@github.com/kawin101/kawin101.git")
+    origin.set_url(f"https://{os.getenv('GH_TOKEN')}@github.com/kawin101/kawin101.git")
+    origin.push()
 
 if __name__ == "__main__":
     weather = get_weather()
