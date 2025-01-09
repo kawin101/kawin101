@@ -33,7 +33,7 @@ def update_readme(weather):
     temperature_icon = get_temperature_icon(weather['temperature'])
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     weather_info = (
-        "\n## Weather in Takuapa, Phang Nga, Thailand\n"
+        "## Weather in Takuapa, Phang Nga, Thailand\n"
         f"Date/Time: {current_time}<br>\n"
         f"Temperature: {temperature_icon} {weather['temperature']}°C<br>\n"
         f"Wind Speed: {weather['windspeed']} km/h<br>\n"
@@ -46,12 +46,10 @@ def update_readme(weather):
     for i, line in enumerate(readme_content):
         if line.startswith("## Weather in Takuapa, Phang Nga, Thailand"):
             start_index = i
-        if start_index is not None and line.strip() == "":
-            end_index = i
             break
 
-    # Update the weather info if it exists, otherwise append it
-    if start_index is not None and end_index is not None:
+    if start_index is not None:
+        end_index = start_index + 4  # Assuming weather info block is 4 lines long
         readme_content[start_index:end_index] = [weather_info]
     else:
         readme_content.append(weather_info)
