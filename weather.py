@@ -1,7 +1,5 @@
 import requests
 from datetime import datetime
-import git
-import os
 
 def get_weather():
     url = "https://api.open-meteo.com/v1/forecast"
@@ -22,8 +20,14 @@ def get_temperature_icon(temperature):
         return "🥶"  # Cold face for temperatures below 10°C
     elif temperature < 20:
         return "🧥"  # Coat for temperatures below 20°C
+    elif temperature < 30:
+        return "🔥"  # Sunglasses for temperatures 20°C to 30°C
+    elif temperature < 35:
+        return "🔥🔥"  # Sun with face for temperatures 30°C to 35°C
+    elif temperature < 40:
+        return "🔥🔥🔥"  # Fire for temperatures 35°C to 40°C
     else:
-        return "😎"  # Sunglasses for temperatures 20°C and above
+        return "🌋"  # Volcano for temperatures 40°C and above
 
 def update_readme(weather_info):
     with open("README.md", "r") as file:
@@ -49,15 +53,6 @@ def update_readme(weather_info):
     with open("README.md", "w") as file:
         file.writelines(readme_content)
 
-def push_to_github():
-    repo_path = os.getenv('GITHUB_WORKSPACE', '/home/runner/work/kawin101/kawin101')
-    repo = git.Repo(repo_path)
-    repo.git.add('README.md')
-    repo.index.commit('Update weather information')
-    origin = repo.remote(name='origin')
-    origin.push()
-
 if __name__ == "__main__":
     weather = get_weather()
     update_readme(weather)
-    push_to_github()
