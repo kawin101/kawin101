@@ -1,11 +1,6 @@
 import requests
 from datetime import datetime
 import git
-import os
-from dotenv import load_dotenv
-
-# Load environment variables from .env file
-load_dotenv()
 
 def get_weather():
     url = "https://api.open-meteo.com/v1/forecast"
@@ -27,17 +22,22 @@ def get_temperature_icon(temperature):
     elif temperature < 20:
         return "🧥"  # Coat for temperatures below 20°C
     elif temperature < 30:
-        return "🌤️"  # Sunglasses for temperatures 20°C to 30°C
-    elif temperature < 35:
-        return "🔥"  # Sun with face for temperatures 30°C to 35°C
-    elif temperature < 40:
-        return "🔥🔥🔥"  # Fire for temperatures 35°C to 40°C
+        return "🌤️"  # Sun behind small cloud for temperatures below 30°C
     else:
-        return "🌋"  # Volcano for temperatures 40°C and above
+        return "🔥"  # Fire for temperatures 30°C and above
 
-def update_readme(weather_info):
+def update_readme(weather):
     with open("README.md", "r") as file:
         readme_content = file.readlines()
+
+    temperature_icon = get_temperature_icon(weather['temperature'])
+    current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    weather_info = (
+        "## Weather in Takuapa, Phang Nga, Thailand\n"
+        f"Date/Time: {current_time}<br>\n"
+        f"Temperature: {temperature_icon} {weather['temperature']}°C<br>\n"
+        f"Wind Speed: {weather['windspeed']} km/h<br>\n"
+    )
 
     start_index = None
     end_index = None
@@ -48,30 +48,20 @@ def update_readme(weather_info):
             start_index = i
             break
 
-    current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    weather_info_str = (
-        f"## Weather in Takuapa, Phang Nga, Thailand\n"
-        f"Date: {current_time}\n"
-        f"Temperature: {get_temperature_icon(weather_info['temperature'])} {weather_info['temperature']}°C\n"
-        f"Wind Speed: {weather_info['windspeed']} km/h\n"
-    )
-
     if start_index is not None:
-        end_index = start_index + 5  # Assuming weather info block is 5 lines long
-        readme_content[start_index:end_index] = [weather_info_str]
+        end_index = start_index + 4  # Assuming weather info block is 4 lines long
+        readme_content[start_index:end_index] = [weather_info]
     else:
-        readme_content.append(weather_info_str)
+        readme_content.append(weather_info)
 
     with open("README.md", "w") as file:
         file.writelines(readme_content)
 
 def push_to_github():
-    repo_path = os.getenv('GITHUB_WORKSPACE', '/home/runner/work/kawin101/kawin101')
-    repo = git.Repo(repo_path)
+    repo = git.Repo('/Users/kawin101/Desktop/kawin101')
     repo.git.add('README.md')
     repo.index.commit('Update weather information')
     origin = repo.remote(name='origin')
-    origin.set_url(f"https://{os.getenv('GH_TOKEN')}@github.com/kawin101/kawin101.git")
     origin.push()
 
 if __name__ == "__main__":
