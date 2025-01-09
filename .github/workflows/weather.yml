@@ -29,4 +29,4 @@ jobs:
       - name: Run weather script
         run: |
           source .venv/bin/activate
-          python /Users/kawin101/Desktop/kawin101/weather.py
+          python weather.py
