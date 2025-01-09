@@ -1,5 +1,6 @@
 import requests
 from datetime import datetime
+import git
 
 def get_weather():
     url = "https://api.open-meteo.com/v1/forecast"
@@ -58,6 +59,14 @@ def update_readme(weather):
     with open("README.md", "w") as file:
         file.writelines(readme_content)
 
+def push_to_github():
+    repo = git.Repo('/Users/kawin101/Desktop/kawin101')
+    repo.git.add('README.md')
+    repo.index.commit('Update weather information')
+    origin = repo.remote(name='origin')
+    origin.push()
+
 if __name__ == "__main__":
     weather = get_weather()
     update_readme(weather)
+    push_to_github()
