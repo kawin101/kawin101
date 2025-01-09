@@ -2,6 +2,10 @@ import requests
 from datetime import datetime
 import git
 import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 def get_weather():
     url = "https://api.open-meteo.com/v1/forecast"
@@ -23,9 +27,9 @@ def get_temperature_icon(temperature):
     elif temperature < 20:
         return "🧥"  # Coat for temperatures below 20°C
     elif temperature < 30:
-        return "🔥"  # Sunglasses for temperatures 20°C to 30°C
+        return "🌤️"  # Sunglasses for temperatures 20°C to 30°C
     elif temperature < 35:
-        return "🔥🔥"  # Sun with face for temperatures 30°C to 35°C
+        return "🔥"  # Sun with face for temperatures 30°C to 35°C
     elif temperature < 40:
         return "🔥🔥🔥"  # Fire for temperatures 35°C to 40°C
     else:
@@ -44,10 +48,16 @@ def update_readme(weather_info):
             start_index = i
             break
 
-    weather_info_str = f"## Weather in Takuapa, Phang Nga, Thailand\nTemperature: {weather_info['temperature']}°C {get_temperature_icon(weather_info['temperature'])}\n"
+    current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    weather_info_str = (
+        f"## Weather in Takuapa, Phang Nga, Thailand\n"
+        f"Date: {current_time}\n"
+        f"Temperature: {get_temperature_icon(weather_info['temperature'])} {weather_info['temperature']}°C\n"
+        f"Wind Speed: {weather_info['windspeed']} km/h\n"
+    )
 
     if start_index is not None:
-        end_index = start_index + 4  # Assuming weather info block is 4 lines long
+        end_index = start_index + 5  # Assuming weather info block is 5 lines long
         readme_content[start_index:end_index] = [weather_info_str]
     else:
         readme_content.append(weather_info_str)
