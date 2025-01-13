@@ -26,52 +26,17 @@ def get_temperature_icon(temperature):
     else:
         return "🔥"  # Fire for temperatures 30°C and above
 
-def get_weather_icon(weather_code):
-    weather_icons = {
-        0: "☀️",  # Clear sky
-        1: "🌤️",  # Mainly clear
-        2: "⛅",  # Partly cloudy
-        3: "☁️",  # Overcast
-        45: "🌫️",  # Fog
-        48: "🌫️",  # Depositing rime fog
-        51: "🌦️",  # Drizzle: Light
-        53: "🌦️",  # Drizzle: Moderate
-        55: "🌦️",  # Drizzle: Dense intensity
-        56: "🌧️",  # Freezing Drizzle: Light
-        57: "🌧️",  # Freezing Drizzle: Dense intensity
-        61: "🌧️",  # Rain: Slight
-        63: "🌧️",  # Rain: Moderate
-        65: "🌧️",  # Rain: Heavy intensity
-        66: "🌨️",  # Freezing Rain: Light
-        67: "🌨️",  # Freezing Rain: Heavy intensity
-        71: "🌨️",  # Snow fall: Slight
-        73: "🌨️",  # Snow fall: Moderate
-        75: "🌨️",  # Snow fall: Heavy intensity
-        77: "🌨️",  # Snow grains
-        80: "🌧️",  # Rain showers: Slight
-        81: "🌧️",  # Rain showers: Moderate
-        82: "🌧️",  # Rain showers: Violent
-        85: "🌨️",  # Snow showers slight
-        86: "🌨️",  # Snow showers heavy
-        95: "⛈️",  # Thunderstorm: Slight or moderate
-        96: "⛈️",  # Thunderstorm with slight hail
-        99: "⛈️",  # Thunderstorm with heavy hail
-    }
-    return weather_icons.get(weather_code, "❓")  # Default to question mark if code is unknown
-
 def update_readme(weather):
     with open("README.md", "r") as file:
         readme_content = file.readlines()
 
     temperature_icon = get_temperature_icon(weather['temperature'])
-    weather_icon = get_weather_icon(weather['weathercode'])
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     weather_info = (
         "## Weather in Takuapa, Phang Nga, Thailand\n"
-        f"🕒 Date/Time: {current_time}<br>\n"
-        f"🌡️ Temperature: {temperature_icon} {weather['temperature']}°C<br>\n"
-        f"💨 Wind Speed: {weather['windspeed']} km/h<br>\n"
-        f"🌦️ Weather: {weather_icon}<br>\n"
+        f"Date/Time: {current_time}<br>\n"
+        f"Temperature: {temperature_icon} {weather['temperature']}°C<br>\n"
+        f"Wind Speed: {weather['windspeed']} km/h<br>\n"
     )
 
     start_index = None
@@ -84,7 +49,7 @@ def update_readme(weather):
             break
 
     if start_index is not None:
-        end_index = start_index + 5  # Assuming weather info block is 5 lines long
+        end_index = start_index + 4  # Assuming weather info block is 4 lines long
         readme_content[start_index:end_index] = [weather_info]
     else:
         readme_content.append(weather_info)
