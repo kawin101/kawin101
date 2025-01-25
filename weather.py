@@ -58,7 +58,7 @@ def update_readme(weather):
         file.writelines(readme_content)
 
 def push_to_github():
-    repo = git.Repo('/Users/kawin101/Desktop/kawin101')
+    repo = git.Repo('/Users/kawin101/Desktop/github_project/kawin101')
     repo.git.add('README.md')
     repo.index.commit('Update weather information')
     origin = repo.remote(name='origin')
