@@ -1,6 +1,6 @@
 # My Portfolio https://kawin101.github.io/
 
 ## Weather in Takuapa, Phang Nga, Thailand
-🕒 Date/Time: 2025-01-25 16:22:31<br>
-🌡️ Temperature: 🌤️ 29.6°C<br>
-💨 Wind Speed: 7.2 km/h<br>
+🕒 Date/Time: 2025-01-27 21:10:45<br>
+🌡️ Temperature: 🌤️ 25.5°C<br>
+💨 Wind Speed: 4.0 km/h<br>
