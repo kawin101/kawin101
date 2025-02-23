@@ -1,4 +1,4 @@
-## Hi, My name is Green
+## Hi, I'm Green
 i make app
 
 ### My Portfolio 
