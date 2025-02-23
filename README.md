@@ -1,5 +1,5 @@
 ## Hi, I'm Green
-i make app
+i make apps
 
 ### My Portfolio 
 https://kawin101.github.io/
