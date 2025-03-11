@@ -15,7 +15,6 @@ https://kawin101.github.io/
 
 <!--WEATHER_UPDATE-->
 
-<br>
 
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
