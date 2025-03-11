@@ -47,7 +47,7 @@ def update_readme(weather):
 
     weather_info = (
         f"### Weather\n"
-        f"<!-- ใช้เวลา ประเทศไทย --> UTC +7\n"
+        f"<!-- ใช้เวลา ประเทศไทย UTC +7 -->\n"  # ✅ แก้ไขข้อความตามที่ต้องการ
         f"🕒 **Date/Time:** {current_time}<br>\n"
         f"🌡️ **Temperature:** {temperature_icon} {weather['temperature']}°C<br>\n"
         f"💨 **Wind Speed:** {weather['windspeed']} km/h<br>\n"
@@ -63,7 +63,7 @@ def update_readme(weather):
     end_index = None
 
     for i, line in enumerate(readme_content):
-        if start_marker in line and start_index is None:  # หาตำแหน่งของ Weather ที่ถูกต้อง
+        if start_marker in line and start_index is None:
             start_index = i
         if end_marker in line:
             end_index = i
