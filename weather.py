@@ -1,6 +1,7 @@
 import os
 import requests
 from datetime import datetime
+import pytz  # ใช้กำหนดโซนเวลาเป็น UTC+7
 
 # โหลดค่าจาก GitHub Secrets
 USER_REPO = os.getenv("USER_REPO")  # เช่น "kawin101/weather-update"
@@ -38,13 +39,15 @@ def get_temperature_icon(temperature):
         return "🔥"
 
 def update_readme(weather):
-    with open("README.md", "r", encoding="utf-8") as file:
-        readme_content = file.readlines()
+    # กำหนด timezone เป็น UTC+7 (Asia/Bangkok)
+    bangkok_tz = pytz.timezone("Asia/Bangkok")
+    current_time = datetime.now(bangkok_tz).strftime("%Y-%m-%d %H:%M:%S")
 
     temperature_icon = get_temperature_icon(weather['temperature'])
-    current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
     weather_info = (
         f"### Weather\n"
+        f"<!-- ใช้เวลา ประเทศไทย --> UTC +7\n"
         f"🕒 **Date/Time:** {current_time}<br>\n"
         f"🌡️ **Temperature:** {temperature_icon} {weather['temperature']}°C<br>\n"
         f"💨 **Wind Speed:** {weather['windspeed']} km/h<br>\n"
@@ -53,18 +56,21 @@ def update_readme(weather):
     start_marker = "### Weather"
     end_marker = "<!--WEATHER_UPDATE-->"
 
+    with open("README.md", "r", encoding="utf-8") as file:
+        readme_content = file.readlines()
+
     start_index = None
     end_index = None
 
     for i, line in enumerate(readme_content):
-        if start_marker in line:
+        if start_marker in line and start_index is None:  # หาตำแหน่งของ Weather ที่ถูกต้อง
             start_index = i
         if end_marker in line:
             end_index = i
             break
 
     if start_index is not None and end_index is not None:
-        readme_content[start_index+1:end_index] = [weather_info + "\n"]
+        readme_content[start_index:end_index+1] = [weather_info + "\n", end_marker + "\n"]
     else:
         readme_content.append("\n" + start_marker + "\n" + weather_info + "\n" + end_marker + "\n")
 
