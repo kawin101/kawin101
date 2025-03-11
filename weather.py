@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 
 # ดึงค่า TOKEN และ REPO_URL จาก GitHub Secrets
-GITHUB_REPO = os.getenv("GITHUB_REPO")
+GITHUB_REPO = "https://github.com/kawin101/kawin101"
 GITHUB_USERNAME = os.getenv("GITHUB_USERNAME")
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 
