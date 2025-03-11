@@ -1,0 +1,32 @@
+name: Update Wakatime Stats in README
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # รันทุกวัน เวลา 12 AM UTC (07:00 AM ในไทย)
+  workflow_dispatch:  # ให้สามารถรัน workflow ด้วยตัวเองได้
+
+permissions:
+  contents: write  # ให้สิทธิ์ push กลับไปที่ repo
+
+jobs:
+  update-wakatime:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Set Environment Variables
+        run: |
+          echo "WAKATIME_API_KEY=${{ secrets.WAKATIME_API_KEY }}" >> $GITHUB_ENV
+
+      - name: Run script to update README
+        run: python wakatime.py

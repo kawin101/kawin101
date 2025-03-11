@@ -14,3 +14,10 @@ https://kawin101.github.io/
 💨 **Wind Speed:** 3.4 km/h<br>
 
 <!--WEATHER_UPDATE-->
+
+<br>
+
+## 💻 CODING STATS 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
