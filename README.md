@@ -15,6 +15,86 @@ https://kawin101.github.io/
 
 <!--WEATHER_UPDATE-->
 
+<h2 align="center">🔨 My TOOL</h2>
+
+<table align="center">
+  <tr></tr>
+  <tr><td valign="top" width="100%">
+
+### Frontend
+    
+
+<div align="center">
+<img height="50px"  src="https://skillicons.dev/icons?i=flutter,figma,react,nodejs,bun,jquery,html,css,bootstrap,materialui,angular" />
+
+</div>
+
+</td></tr><tr><td valign="top" width="100%">
+
+### Backend
+
+<div align="center"> 
+<img height="50px" src="https://skillicons.dev/icons?i=django,flask,express,laravel" />
+<!-- <img height="50px" src="https://docs.gofiber.io/img/logo-dark.svg" /> -->
+<!-- <img height="50px" src="https://echo.labstack.com/img/logo-light.svg" /> -->
+   
+</div>
+
+</td>
+</tr>
+ <tr><td>
+
+### Database
+
+<div align="center"> 
+<img height="50px" src="https://skillicons.dev/icons?i=firebase,sqlite,mysql,mongodb,supabase" />
+<!-- <img height="50px" src="https://studio3t.com/wp-content/themes/s3t-2020/images/logo-pos.svg" /> -->
+<!-- <img height="50px" src="https://raw.githubusercontent.com/dbgate/dbgate/master/app/icon.png"  /> -->
+</div>
+
+</td>
+</tr>
+ <tr><td>
+   
+   
+### Languages
+
+<div align="center">    
+<img height="50px" src="https://skillicons.dev/icons?i=dart,py,js,ts,php,java,cs,cpp,c" />
+
+</div>
+
+</td></tr>
+
+<tr><td>
+  
+### Tools
+
+<div align="center">
+<img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Xcode.svg/2048px-Xcode.svg.png" />
+<img height="50px" src="https://skillicons.dev/icons?i=androidstudio,postman,git,vscode,visualstudio,idea,figma,github,docker,xd,githubactions,gitlab" />
+<!-- <img height="50px" src="https://icon.icepanel.io/Technology/svg/Podman.svg" />
+<!-- <img height="50px" src="https://locust.io/static/img/logo.png" /> -->
+<!-- <img height="50px" src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" /> -->
+   
+</div>
+
+</td></tr>
+
+<tr><td>
+  
+### Others
+
+<div align="center">
+<img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wix.com_website_logo.svg/2560px-Wix.com_website_logo.svg.png" />
+<img height="50px" src="https://skillicons.dev/icons?i=raspberrypi,arduino,unity,blender,discord,linkedin,apple,linux,mint,debian,windows,ubuntu" />
+
+</div>
+
+</td></tr>
+
+</table>
+<br>
 
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
