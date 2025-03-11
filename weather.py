@@ -4,7 +4,7 @@ from datetime import datetime
 import pytz  # ใช้กำหนดโซนเวลาเป็น UTC+7
 
 # โหลดค่าจาก GitHub Secrets
-USER_REPO = os.getenv("USER_REPO")  # เช่น "kawin101/weather-update"
+USER_REPO = os.getenv("USER_REPO")  # เช่น "kawin101/kawin101"
 USER_USERNAME = os.getenv("USER_USERNAME")  # เช่น "kawin101"
 USER_EMAIL = os.getenv("USER_EMAIL")  # เช่น "your_email@gmail.com"
 LATITUDE = os.getenv("LATITUDE")  # ค่าพิกัด latitude
