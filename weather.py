@@ -2,37 +2,40 @@ import os
 import requests
 from datetime import datetime
 
-# ดึงค่า TOKEN และ REPO_URL จาก GitHub Secrets
-GITHUB_REPO = "https://github.com/kawin101/kawin101"
-GITHUB_USERNAME = os.getenv("GITHUB_USERNAME")
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+# โหลดค่าจาก GitHub Secrets
+USER_REPO = os.getenv("USER_REPO")  # เช่น "kawin101/weather-update"
+USER_USERNAME = os.getenv("USER_USERNAME")  # เช่น "kawin101"
+USER_EMAIL = os.getenv("USER_EMAIL")  # เช่น "your_email@gmail.com"
+LATITUDE = os.getenv("LATITUDE")  # ค่าพิกัด latitude
+LONGITUDE = os.getenv("LONGITUDE")  # ค่าพิกัด longitude
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")  # GitHub Token (ใช้สำหรับ push)
 
 def get_weather():
     url = "https://api.open-meteo.com/v1/forecast"
     params = {
-        "latitude": 8.864,  # Latitude for Takuapa
-        "longitude": 98.355,  # Longitude for Takuapa
+        "latitude": LATITUDE,
+        "longitude": LONGITUDE,
         "current_weather": True,
         "timezone": "Asia/Bangkok"
     }
     response = requests.get(url, params=params)
     if response.status_code == 200:
-        return response.json()["current_weather"]
+        return response.json().get("current_weather", {})
     else:
         print(f"Error fetching weather data: {response.status_code}")
         return None
 
 def get_temperature_icon(temperature):
     if temperature < 0:
-        return "❄️"  # Snowflake for temperatures below 0°C
+        return "❄️"
     elif temperature < 10:
-        return "🥶"  # Cold face for temperatures below 10°C
+        return "🥶"
     elif temperature < 20:
-        return "🧥"  # Coat for temperatures below 20°C
+        return "🧥"
     elif temperature < 30:
-        return "🌤️"  # Sun behind small cloud for temperatures below 30°C
+        return "🌤️"
     else:
-        return "🔥"  # Fire for temperatures 30°C and above
+        return "🔥"
 
 def update_readme(weather):
     with open("README.md", "r", encoding="utf-8") as file:
@@ -41,7 +44,7 @@ def update_readme(weather):
     temperature_icon = get_temperature_icon(weather['temperature'])
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     weather_info = (
-        "### Weather in Takuapa, Phang Nga, Thailand\n"
+        f"### Weather\n"
         f"🕒 **Date/Time:** {current_time}<br>\n"
         f"🌡️ **Temperature:** {temperature_icon} {weather['temperature']}°C<br>\n"
         f"💨 **Wind Speed:** {weather['windspeed']} km/h<br>\n"
@@ -53,11 +56,10 @@ def update_readme(weather):
     start_index = None
     end_index = None
 
-    # หาตำแหน่งที่ต้องอัปเดตใน README.md
     for i, line in enumerate(readme_content):
-        if line.strip() == start_marker:
+        if start_marker in line:
             start_index = i
-        if line.strip() == end_marker:
+        if end_marker in line:
             end_index = i
             break
 
@@ -70,11 +72,11 @@ def update_readme(weather):
         file.writelines(readme_content)
 
 def push_to_github():
-    os.system("git config --global user.name 'github-actions'")
-    os.system("git config --global user.email 'github-actions@github.com'")
+    os.system(f"git config --global user.name '{USER_USERNAME}'")
+    os.system(f"git config --global user.email '{USER_EMAIL}'")
     os.system("git add README.md")
-    os.system("git commit -m 'Update weather information'")
-    os.system(f"git push https://{GITHUB_USERNAME}:{GITHUB_TOKEN}@github.com/{GITHUB_REPO}.git")
+    os.system("git commit -m 'Update weather information' || exit 0")
+    os.system(f"git push https://x-access-token:{GITHUB_TOKEN}@github.com/{USER_REPO}.git || exit 0")
 
 if __name__ == "__main__":
     weather = get_weather()
