@@ -2,7 +2,7 @@ name: Update Wakatime Stats in README
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # รันทุกวัน เวลา 12 AM UTC (07:00 AM ในไทย)
+    - cron: "0 23 * * *" # อัปเดตเวลา 11:00 PM ทุกวัน
   workflow_dispatch:  # ให้สามารถรัน workflow ด้วยตัวเองได้
 
 permissions:
