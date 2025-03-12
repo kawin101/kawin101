@@ -2,7 +2,7 @@ name: Update Weather Info in README
 
 on:
   schedule:
-    - cron: "0 23 * * *" # อัปเดตเวลา 11:00 PM ทุกวัน
+    - cron: "0 11,23 * * *" # อัปเดตเวลา 11:00 และ 23:00 ทุกวัน
   workflow_dispatch:  # ให้สามารถรัน workflow ด้วยตัวเองได้
 
 permissions:
