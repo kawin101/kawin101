@@ -99,7 +99,7 @@ https://kawin101.github.io/
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 11 March 2025
+From: 2024-06-02T17:00:00Z - To: 12 March 2025
 
 Total Time: 703 hrs 39 mins
 
