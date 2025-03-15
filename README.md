@@ -92,30 +92,30 @@ https://kawin101.github.io/
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 14 March 2025
+From: 2024-06-02T17:00:00Z - To: 15 March 2025
 
-Total Time: 716 hrs 49 mins
+Total Time: 721 hrs 27 mins
 
-Dart                      609 hrs 37 mins 84.30 %
-YAML                      19 hrs 0 mins  2.63 %
-Groovy                    14 hrs 57 mins  2.07 %
-JSON                      14 hrs 8 mins  1.96 %
-XML                       12 hrs 2 mins  1.67 %
-Python                    10 hrs 6 mins  1.40 %
-Other                     6 hrs 19 mins  0.87 %
+Dart                      613 hrs 44 mins 84.33 %
+YAML                      19 hrs 8 mins  2.63 %
+Groovy                    14 hrs 57 mins  2.05 %
+JSON                      14 hrs 32 mins  2.00 %
+XML                       12 hrs 2 mins  1.65 %
+Python                    10 hrs 6 mins  1.39 %
+Other                     6 hrs 20 mins  0.87 %
 HTML                      5 hrs 40 mins  0.78 %
 JavaScript                5 hrs 30 mins  0.76 %
 TypeScript                4 hrs 30 mins  0.62 %
 Java Properties           3 hrs 32 mins  0.49 %
-Markdown                  3 hrs 31 mins  0.49 %
+Markdown                  3 hrs 31 mins  0.48 %
 Image (svg)               2 hrs 45 mins  0.38 %
-Go                        2 hrs 3 mins  0.29 %
+Go                        2 hrs 3 mins  0.28 %
 Git Config                1 hrs 30 mins  0.21 %
 Bash                      1 hrs 29 mins  0.21 %
 Text                      1 hrs 25 mins  0.20 %
 CocoaPods                 0 hrs 55 mins  0.13 %
 Kotlin                    0 hrs 48 mins  0.11 %
-C                         0 hrs 41 mins  0.10 %
+C                         0 hrs 41 mins  0.09 %
 SQL                       0 hrs 40 mins  0.09 %
 Swift                     0 hrs 33 mins  0.08 %
 CSV                       0 hrs 21 mins  0.05 %
