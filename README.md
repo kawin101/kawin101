@@ -25,7 +25,7 @@ https://kawin101.github.io/
     
 
 <div align="center">
-<img height="50px"  src="https://skillicons.dev/icons?i=flutter,vite,react,next,bun,yarn,npm,pnpm,nodejs,jquery,bootstrap,materialui,angular,html,htmx,css,sass" />
+<img height="50px"  src="https://skillicons.dev/icons?i=flutter,vite,react,next,bun,nodejs,jquery,bootstrap,materialui,angular,html,htmx,css,sass" />
 
 </div>
 
