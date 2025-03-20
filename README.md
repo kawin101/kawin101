@@ -25,7 +25,7 @@ https://kawin101.github.io/
     
 
 <div align="center">
-<img height="50px"  src="https://skillicons.dev/icons?i=flutter,react,next,jquery,bootstrap,angular" />
+<img height="50px"  src="https://skillicons.dev/icons?i=flutter,vite,react,next,bun,yarn,npm,pnpm,nodejs,jquery,bootstrap,materialui,angular,html,htmx,css,sass" />
 
 </div>
 
@@ -35,7 +35,7 @@ https://kawin101.github.io/
 
 <div align="center">
 <img height="50px" src="https://docs.gofiber.io/img/logo-dark.svg" />
-<img height="50px" src="https://skillicons.dev/icons?i=django,express,laravel" />
+<img height="50px" src="https://skillicons.dev/icons?i=gcp,aws,nginx,django,flask,fastapi,express,laravel" />
    
 </div>
 
@@ -46,7 +46,7 @@ https://kawin101.github.io/
 ### Database
 
 <div align="center"> 
-<img height="50px" src="https://skillicons.dev/icons?i=supabase,firebase,mysql,sqlite,mongodb" />
+<img height="50px" src="https://skillicons.dev/icons?i=supabase,firebase,postgres,mysql,sqlite,mongodb" />
 </div>
 
 </td>
@@ -57,7 +57,7 @@ https://kawin101.github.io/
 ### Languages
 
 <div align="center">    
-<img height="50px" src="https://skillicons.dev/icons?i=go,dart,py,c" />
+<img height="50px" src="https://skillicons.dev/icons?i=go,dart,py,bash,ts,kotlin,js,java,php,c,fortran" />
 
 </div>
 
@@ -69,7 +69,7 @@ https://kawin101.github.io/
 
 <div align="center">
 <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Xcode.svg/2048px-Xcode.svg.png" />
-<img height="50px" src="https://skillicons.dev/icons?i=androidstudio,postman,git,vscode,figma,github,docker" />
+<img height="50px" src="https://skillicons.dev/icons?i=androidstudio,postman,git,vscode,figma,github,cloudflare,docker,githubactions,gitlab,idea" />
    
 </div>
 
@@ -80,7 +80,7 @@ https://kawin101.github.io/
 ### Others
 
 <div align="center">
-<img height="50px" src="https://skillicons.dev/icons?i=raspberrypi,arduino,discord,linkedin,apple,linux,windows" />
+<img height="50px" src="https://skillicons.dev/icons?i=raspberrypi,arduino,discord,linkedin,apple,linux,mint,debian,ubuntu,windows" />
 
 </div>
 
