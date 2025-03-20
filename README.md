@@ -68,7 +68,7 @@ https://kawin101.github.io/
 ### Tools
 
 <div align="center">
-<img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Xcode.svg/2048px-Xcode.svg.png" />
+<img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Xcode.svg/2048px-Xcode.svg.png" />
 <img height="50px" src="https://skillicons.dev/icons?i=androidstudio,postman,git,vscode,figma,github,cloudflare,docker,githubactions,gitlab,idea" />
    
 </div>
@@ -80,6 +80,7 @@ https://kawin101.github.io/
 ### Others
 
 <div align="center">
+<img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Wix_logo_svg.svg" />
 <img height="50px" src="https://skillicons.dev/icons?i=raspberrypi,arduino,discord,linkedin,apple,linux,mint,debian,ubuntu,windows" />
 
 </div>
