@@ -9,14 +9,13 @@ https://kawin101.github.io/
 
 ### Weather
 <!-- ใช้เวลา ประเทศไทย UTC +7 -->
-🕒 **Date/Time:** 2025-03-23 18:14:42<br>
-🌡️ **Temperature:** 🌤️ 29.5°C<br>
-💨 **Wind Speed:** 3.6 km/h<br>
+🕒 **Date/Time:** 2025-03-23 06:17:35<br>
+🌡️ **Temperature:** 🌤️ 24.0°C<br>
+💨 **Wind Speed:** 3.3 km/h<br>
 
 <!--WEATHER_UPDATE-->
 
 <h2 align="center">🔨 My Tool</h2>
-<h5 align="center">🕒 Last Update: 23 Mar, 2025</h2>
 
 <table align="center">
   <tr></tr>
@@ -26,7 +25,7 @@ https://kawin101.github.io/
     
 
 <div align="center">
-<img height="50px"  src="https://skillicons.dev/icons?i=flutter,react,next,bun,nodejs,jquery,bootstrap,materialui,html,css" />
+<img height="50px"  src="https://skillicons.dev/icons?i=flutter,vite,react,next,bun,nodejs,jquery,bootstrap,materialui,angular,html,htmx,css,sass" />
 
 </div>
 
@@ -36,7 +35,7 @@ https://kawin101.github.io/
 
 <div align="center">
 <img height="50px" src="https://docs.gofiber.io/img/logo-dark.svg" />
-<img height="50px" src="https://skillicons.dev/icons?i=gcp,aws,nginx,django,express" />
+<img height="50px" src="https://skillicons.dev/icons?i=gcp,aws,nginx,django,flask,fastapi,express,laravel" />
    
 </div>
 
@@ -58,7 +57,7 @@ https://kawin101.github.io/
 ### Languages
 
 <div align="center">    
-<img height="50px" src="https://skillicons.dev/icons?i=go,dart,py,bash,c" />
+<img height="50px" src="https://skillicons.dev/icons?i=go,dart,py,bash,ts,kotlin,js,java,php,c,fortran" />
 
 </div>
 
@@ -70,7 +69,7 @@ https://kawin101.github.io/
 
 <div align="center">
 <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Xcode.svg/2048px-Xcode.svg.png" />
-<img height="50px" src="https://skillicons.dev/icons?i=androidstudio,postman,git,vscode,figma,github,cloudflare,docker" />
+<img height="50px" src="https://skillicons.dev/icons?i=androidstudio,postman,git,vscode,figma,github,cloudflare,docker,githubactions,gitlab,idea" />
    
 </div>
 
@@ -82,7 +81,7 @@ https://kawin101.github.io/
 
 <div align="center">
 <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Wix_logo_svg.svg" />
-<img height="50px" src="https://skillicons.dev/icons?i=raspberrypi,arduino,discord,linkedin,apple,linux,windows" />
+<img height="50px" src="https://skillicons.dev/icons?i=raspberrypi,arduino,discord,linkedin,apple,linux,mint,debian,ubuntu,windows" />
 
 </div>
 
