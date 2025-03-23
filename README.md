@@ -16,6 +16,7 @@ https://kawin101.github.io/
 <!--WEATHER_UPDATE-->
 
 <h2 align="center">🔨 My Tool</h2>
+<h5 align="center">🕒 Last Update: 23 Mar, 2025</h2>
 
 <table align="center">
   <tr></tr>
