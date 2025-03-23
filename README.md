@@ -25,7 +25,7 @@ https://kawin101.github.io/
     
 
 <div align="center">
-<img height="50px"  src="https://skillicons.dev/icons?i=flutter,vite,react,next,bun,nodejs,jquery,bootstrap,materialui,angular,html,htmx,css,sass" />
+<img height="50px"  src="https://skillicons.dev/icons?i=flutter,react,next,bun,nodejs,jquery,bootstrap,materialui,html,css" />
 
 </div>
 
@@ -35,7 +35,7 @@ https://kawin101.github.io/
 
 <div align="center">
 <img height="50px" src="https://docs.gofiber.io/img/logo-dark.svg" />
-<img height="50px" src="https://skillicons.dev/icons?i=gcp,aws,nginx,django,flask,fastapi,express,laravel" />
+<img height="50px" src="https://skillicons.dev/icons?i=gcp,aws,nginx,django,express" />
    
 </div>
 
@@ -57,7 +57,7 @@ https://kawin101.github.io/
 ### Languages
 
 <div align="center">    
-<img height="50px" src="https://skillicons.dev/icons?i=go,dart,py,bash,ts,kotlin,js,java,php,c,fortran" />
+<img height="50px" src="https://skillicons.dev/icons?i=go,dart,py,bash,c" />
 
 </div>
 
@@ -69,7 +69,7 @@ https://kawin101.github.io/
 
 <div align="center">
 <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Xcode.svg/2048px-Xcode.svg.png" />
-<img height="50px" src="https://skillicons.dev/icons?i=androidstudio,postman,git,vscode,figma,github,cloudflare,docker,githubactions,gitlab,idea" />
+<img height="50px" src="https://skillicons.dev/icons?i=androidstudio,postman,git,vscode,figma,github,cloudflare,docker" />
    
 </div>
 
@@ -81,7 +81,7 @@ https://kawin101.github.io/
 
 <div align="center">
 <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Wix_logo_svg.svg" />
-<img height="50px" src="https://skillicons.dev/icons?i=raspberrypi,arduino,discord,linkedin,apple,linux,mint,debian,ubuntu,windows" />
+<img height="50px" src="https://skillicons.dev/icons?i=raspberrypi,arduino,discord,linkedin,apple,linux,windows" />
 
 </div>
 
