@@ -81,7 +81,6 @@ https://kawin101.github.io/
 ### Others
 
 <div align="center">
-<img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Wix_logo_svg.svg" />
 <img height="50px" src="https://skillicons.dev/icons?i=raspberrypi,arduino,discord,linkedin,apple,linux,windows" />
 
 </div>
