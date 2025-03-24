@@ -34,7 +34,7 @@ https://kawin101.github.io/
 
 <div align="center">
 
-<img height="50px" src="https://skillicons.dev/icons?i=django,express,nodejs" />
+<img height="50px" src="https://skillicons.dev/icons?i=django,nodejs" />
    
 </div>
 
@@ -56,7 +56,7 @@ https://kawin101.github.io/
 ### Programming Languages
 
 <div align="center">    
-<img height="50px" src="https://skillicons.dev/icons?i=dart,py,bash" />
+<img height="50px" src="https://skillicons.dev/icons?i=dart,py" />
 
 </div>
 
@@ -81,7 +81,7 @@ https://kawin101.github.io/
 ### Others
 
 <div align="center">
-<img height="50px" src="https://skillicons.dev/icons?i=raspberrypi,arduino,discord,linkedin,apple,linux,windows" />
+<img height="50px" src="https://skillicons.dev/icons?i=discord,linkedin,apple,linux,windows,raspberrypi,arduino" />
 
 </div>
 
