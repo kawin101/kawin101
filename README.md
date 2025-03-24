@@ -56,7 +56,7 @@ https://kawin101.github.io/
 ### Programming Languages
 
 <div align="center">    
-<img height="50px" src="https://skillicons.dev/icons?i=dart,py" />
+<img height="50px" src="https://skillicons.dev/icons?i=dart,py,go,bash" />
 
 </div>
 
@@ -70,7 +70,7 @@ https://kawin101.github.io/
 <img height="50px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/60/eb/8760eb14-29e2-aa5a-9766-88610a536d7c/AppIcon-0-1x_U007epad-0-0-0-11-0-0-sRGB-85-220-0.png/1200x630wa.png" />
 <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Google_Play_Console_Logo_%282023%29.svg/2560px-Google_Play_Console_Logo_%282023%29.svg.png" />
 <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Xcode.svg/2048px-Xcode.svg.png" />
-<img height="50px" src="https://skillicons.dev/icons?i=androidstudio,postman,git,vscode,figma,github,cloudflare,docker" />
+<img height="50px" src="https://skillicons.dev/icons?i=aws,gcp,androidstudio,postman,git,vscode,figma,github,cloudflare,docker" />
    
 </div>
 
@@ -81,7 +81,7 @@ https://kawin101.github.io/
 ### Others
 
 <div align="center">
-<img height="50px" src="https://skillicons.dev/icons?i=discord,linkedin,apple,linux,windows,raspberrypi,arduino" />
+<img height="50px" src="https://skillicons.dev/icons?i=discord,linkedin,apple,linux,mint,debian,ubuntu,windows,raspberrypi,arduino" />
 
 </div>
 
