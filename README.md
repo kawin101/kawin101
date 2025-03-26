@@ -84,7 +84,7 @@ https://kawin101.github.io/
 
 #### Inactive 
 <div align="center">    
-<img height="50px" src="https://skillicons.dev/icons?i=ts,js,php,java,cs,cpp,fortran" />
+<img height="50px" src="https://skillicons.dev/icons?i=ts,js,php,java,cs,cpp" />
 
 </div>
 
