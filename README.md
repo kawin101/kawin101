@@ -15,26 +15,39 @@ https://kawin101.github.io/
 
 <!--WEATHER_UPDATE-->
 
-<h2 align="center">🔨 My Tool</h2>
+<h2 align="center"> 🧰 My Tool Box</h2>
 
 <table align="center">
   <tr></tr>
   <tr><td valign="top" width="100%">
 
 ### Frontend
-    
+#### Active 
 <div align="center">
-<img height="50px"  src="https://skillicons.dev/icons?i=flutter,angular,bootstrap,html,css" />
+<img height="50px"  src="https://skillicons.dev/icons?i=flutter" />
+
+</div>
+
+#### Inactive 
+<div align="center">
+<img height="50px"  src="https://skillicons.dev/icons?i=vite,react,nodejs,bun,angular,bootstrap,mui,html,css,sass" />
 
 </div>
 
 </td></tr><tr><td valign="top" width="100%">
 
 ### Backend
-
+#### Active 
 <div align="center">
 
-<img height="50px" src="https://skillicons.dev/icons?i=django,nodejs" />
+<img height="50px" src="https://skillicons.dev/icons?i=go" />
+   
+</div>
+
+#### Inactive 
+<div align="center">
+
+<img height="50px" src="https://skillicons.dev/icons?i=django,nodejs,express,laravel" />
    
 </div>
 
@@ -44,8 +57,14 @@ https://kawin101.github.io/
 
 ### Database
 
+#### Active
 <div align="center"> 
-<img height="50px" src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,mongodb" />
+<img height="50px" src="https://skillicons.dev/icons?i=supabase,firebase,mysql" />
+</div>
+
+#### Inactive
+<div align="center"> 
+<img height="50px" src="https://skillicons.dev/icons?i=postgresql,sqlite,mongodb" />
 </div>
 
 </td>
@@ -54,9 +73,15 @@ https://kawin101.github.io/
    
    
 ### Programming Languages
-
+#### Active 
 <div align="center">    
-<img height="50px" src="https://skillicons.dev/icons?i=dart,py" />
+<img height="50px" src="https://skillicons.dev/icons?i=dart,py,bash" />
+
+</div>
+
+#### Inactive 
+<div align="center">    
+<img height="50px" src="https://skillicons.dev/icons?i=ts,js,php,java,cs,cpp,fortran" />
 
 </div>
 
@@ -64,7 +89,7 @@ https://kawin101.github.io/
 
 <tr><td>
   
-### Tools
+### Daily Tools 🔥
 
 <div align="center">
 <img height="50px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/60/eb/8760eb14-29e2-aa5a-9766-88610a536d7c/AppIcon-0-1x_U007epad-0-0-0-11-0-0-sRGB-85-220-0.png/1200x630wa.png" />
@@ -79,10 +104,14 @@ https://kawin101.github.io/
 <tr><td>
   
 ### Others
-
+#### Active 
 <div align="center">
-<img height="50px" src="https://skillicons.dev/icons?i=discord,linkedin,apple,linux,windows" />
+<img height="50px" src="https://skillicons.dev/icons?i=discord,linkedin,apple" />
+</div>
 
+#### Inactive 
+<div align="center">
+<img height="50px" src="https://skillicons.dev/icons?i=githubactions,gitlab,linux,mint,debian,ubuntu,windows,arduino,raspberrypi,unity,blender" />
 </div>
 
 </td></tr>
