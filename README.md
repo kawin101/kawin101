@@ -125,32 +125,32 @@ https://kawin101.github.io/
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 26 March 2025
+From: 2024-06-02T17:00:00Z - To: 28 March 2025
 
-Total Time: 741 hrs 12 mins
+Total Time: 751 hrs 5 mins
 
-Dart                      631 hrs 18 mins 84.36 %
-YAML                      19 hrs 53 mins  2.66 %
-Groovy                    14 hrs 57 mins  2.00 %
-JSON                      14 hrs 49 mins  1.98 %
-XML                       12 hrs 3 mins  1.61 %
-Python                    10 hrs 25 mins  1.39 %
-Other                     7 hrs 8 mins  0.95 %
-HTML                      5 hrs 40 mins  0.76 %
-JavaScript                5 hrs 30 mins  0.74 %
-TypeScript                4 hrs 30 mins  0.60 %
-Markdown                  3 hrs 45 mins  0.50 %
+Dart                      640 hrs 52 mins 84.52 %
+YAML                      19 hrs 55 mins  2.63 %
+JSON                      15 hrs 7 mins  2.00 %
+Groovy                    14 hrs 57 mins  1.97 %
+XML                       12 hrs 3 mins  1.59 %
+Python                    10 hrs 25 mins  1.37 %
+Other                     7 hrs 8 mins  0.94 %
+HTML                      5 hrs 40 mins  0.75 %
+JavaScript                5 hrs 30 mins  0.73 %
+TypeScript                4 hrs 30 mins  0.59 %
+Markdown                  3 hrs 45 mins  0.49 %
 Java Properties           3 hrs 32 mins  0.47 %
-Image (svg)               2 hrs 57 mins  0.40 %
-Go                        2 hrs 3 mins  0.28 %
+Image (svg)               2 hrs 57 mins  0.39 %
+Go                        2 hrs 3 mins  0.27 %
 Bash                      1 hrs 39 mins  0.22 %
-Git Config                1 hrs 37 mins  0.22 %
+Git Config                1 hrs 37 mins  0.21 %
 Text                      1 hrs 27 mins  0.19 %
 CocoaPods                 0 hrs 57 mins  0.13 %
 Kotlin                    0 hrs 50 mins  0.11 %
 C                         0 hrs 41 mins  0.09 %
 SQL                       0 hrs 40 mins  0.09 %
-Swift                     0 hrs 33 mins  0.08 %
+Swift                     0 hrs 33 mins  0.07 %
 CSV                       0 hrs 21 mins  0.05 %
 Java                      0 hrs 17 mins  0.04 %
 TSConfig                  0 hrs 15 mins  0.03 %
