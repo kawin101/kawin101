@@ -9,9 +9,9 @@ https://kawin101.github.io/
 
 ### Weather
 <!-- ใช้เวลา ประเทศไทย UTC +7 -->
-🕒 **Date/Time:** 2025-07-22 18:18:45<br>
-🌡️ **Temperature:** 🌤️ 29.1°C<br>
-💨 **Wind Speed:** 19.5 km/h<br>
+🕒 **Date/Time:** 2025-07-23 06:20:39<br>
+🌡️ **Temperature:** 🌤️ 28.9°C<br>
+💨 **Wind Speed:** 22.4 km/h<br>
 
 <!--WEATHER_UPDATE-->
 
