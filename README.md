@@ -21,7 +21,7 @@ https://kawin101.github.io/
   <tr></tr>
   <tr><td valign="top" width="100%">
 
-### Frontendp
+### Frontend
 <div align="center">
 <img height="50px"  src="https://skillicons.dev/icons?i=flutter,react,angular,html,css" />
 
@@ -48,6 +48,17 @@ https://kawin101.github.io/
 
 </td>
 </tr>
+ <tr><td>
+
+### Software
+<div align="center">
+<img height="50px" src="https://skillicons.dev/icons?i=git,figma,postman,vscode,docker" />
+  
+</div>
+
+</td>
+</tr>
+ <tr><td>
 
 </table>
 <br>
