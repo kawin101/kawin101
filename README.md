@@ -15,53 +15,36 @@ https://kawin101.github.io/
 
 <!--WEATHER_UPDATE-->
 
-<h2 align="center"> 🧰 My Tool Box</h2>
-
-<table align="center">
-  <tr></tr>
-  <tr><td valign="top" width="100%">
+## 🧰 My Tool Box
 
 ### Frontend
-<div align="center">
-<img height="50px"  src="https://skillicons.dev/icons?i=flutter,react,angular,html,css" />
-
-</div>
-
-</td></tr><tr><td valign="top" width="100%">
+- Flutter & Dart
+- React
+- Angular
+- HTML 
+- CSS 
 
 ### Backend
-<div align="center">
-<img height="50px" src="https://skillicons.dev/icons?i=go,py,django,nodejs,js,laravel,php" />
+- Golang
+- Python
+- Django
+- Node.js
+- JavaScript
+- Laravel
+- PHP
   
-</div>
-
-</td>
-</tr>
- <tr><td>
-
 ### Database
-<div align="center"> 
-<img height="50px" src="https://skillicons.dev/icons?i=supabase,firebase,mysql" />
-</div>
+- Supabase
+- Firebase
+- MySQL 
 
-
-
-</td>
-</tr>
- <tr><td>
-
-### Software
-<div align="center">
-<img height="50px" src="https://skillicons.dev/icons?i=git,figma,postman,vscode,docker" />
-  
-</div>
-
-</td>
-</tr>
- <tr><td>
-
-</table>
-<br>
+## Software 
+- Git
+- Postman
+- Figma
+- VS Code
+- Xcode
+- Android Studio
 
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
