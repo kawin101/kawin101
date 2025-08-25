@@ -24,34 +24,18 @@ https://kawin101.github.io/
   <tr></tr>
   <tr><td valign="top" width="100%">
 
-### Frontend
-#### Active 
+### Frontendp
 <div align="center">
-<img height="50px"  src="https://skillicons.dev/icons?i=flutter" />
-
-</div>
-
-#### Inactive 
-<div align="center">
-<img height="50px"  src="https://skillicons.dev/icons?i=vite,react,nodejs,bun,angular,bootstrap,mui,html,css,sass" />
+<img height="50px"  src="https://skillicons.dev/icons?i=flutter,react,angular,html,css" />
 
 </div>
 
 </td></tr><tr><td valign="top" width="100%">
 
 ### Backend
-#### Active 
 <div align="center">
-
-<img height="50px" src="https://skillicons.dev/icons?i=go" />
-   
-</div>
-
-#### Inactive 
-<div align="center">
-
-<img height="50px" src="https://skillicons.dev/icons?i=django,nodejs,express,laravel" />
-   
+<img height="50px" src="https://skillicons.dev/icons?i=go,py,django,nodejs,js,laravel,php" />
+  
 </div>
 
 </td>
@@ -59,65 +43,14 @@ https://kawin101.github.io/
  <tr><td>
 
 ### Database
-
-#### Active
 <div align="center"> 
 <img height="50px" src="https://skillicons.dev/icons?i=supabase,firebase,mysql" />
 </div>
 
-#### Inactive
-<div align="center"> 
-<img height="50px" src="https://skillicons.dev/icons?i=postgresql,sqlite,mongodb" />
-</div>
+
 
 </td>
 </tr>
- <tr><td>
-   
-   
-### Programming Languages
-#### Active 
-<div align="center">    
-<img height="50px" src="https://skillicons.dev/icons?i=dart,py,bash" />
-
-</div>
-
-#### Inactive 
-<div align="center">    
-<img height="50px" src="https://skillicons.dev/icons?i=ts,js,php,java,cs,cpp" />
-
-</div>
-
-</td></tr>
-
-<tr><td>
-  
-### Daily Tools 🔥
-
-<div align="center">
-<img height="50px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/60/eb/8760eb14-29e2-aa5a-9766-88610a536d7c/AppIcon-0-1x_U007epad-0-0-0-11-0-0-sRGB-85-220-0.png/1200x630wa.png" />
-<img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Google_Play_Console_Logo_%282023%29.svg/2560px-Google_Play_Console_Logo_%282023%29.svg.png" />
-<img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Xcode.svg/2048px-Xcode.svg.png" />
-<img height="50px" src="https://skillicons.dev/icons?i=androidstudio,postman,git,vscode,figma,github,docker" />
-   
-</div>
-
-</td></tr>
-
-<tr><td>
-  
-### Others
-#### Active 
-<div align="center">
-<img height="50px" src="https://skillicons.dev/icons?i=discord,linkedin,apple" />
-</div>
-
-#### Inactive 
-<div align="center">
-<img height="50px" src="https://skillicons.dev/icons?i=githubactions,gitlab,linux,mint,debian,ubuntu,windows,arduino,raspberrypi,unity,blender" />
-</div>
-
-</td></tr>
 
 </table>
 <br>
