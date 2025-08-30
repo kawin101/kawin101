@@ -1,3 +1,6 @@
+### Hi, I am Green. 
+- i make apps.
+
 | <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/kawin101?cardType=level-alternate&theme=github&Text=DDA22A" alt="kawin101's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawin101&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 
