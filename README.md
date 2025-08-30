@@ -13,39 +13,6 @@ https://kawin101.github.io/
 🌡️ **Temperature:** 🌤️ 28.0°C<br>
 💨 **Wind Speed:** 15.2 km/h<br>
 
-<!--WEATHER_UPDATE-->
-
-## 🧰 My Tool Box
-
-### Frontend
-- Flutter & Dart
-- React
-- Angular
-- HTML 
-- CSS 
-
-### Backend
-- Golang
-- Python
-- Django
-- Node.js
-- JavaScript
-- Laravel
-- PHP
-  
-### Database
-- Supabase
-- Firebase
-- MySQL 
-
-## Software 
-- Git
-- Postman
-- Figma
-- VS Code
-- Xcode
-- Android Studio
-
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
