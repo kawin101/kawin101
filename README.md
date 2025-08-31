@@ -1,5 +1,11 @@
-## Hi, I'm Green
-i make apps
+## Hi, I'm Green 👋
+i make apps with ❤️ from Thailand 🇹🇭.
+
+### Contact
+- E-mail: kawinphop.chomnikorn@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kawinphop/
+- Facebook: https://www.facebook.com/profile.php?id=61564532357707
+- Fastwork: https://fastwork.co/user/kawin101x/mobile-application-11960497
 
 ### Open Source App
 - [Dog-friendly Hotel Search Web Application Development](https://github.com/kawin101/Django_E-Commerce)
