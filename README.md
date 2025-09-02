@@ -45,7 +45,8 @@ https://kawin101.github.io/
 ### Database
 - Supabase
 - Firebase
-- MySQL 
+- MySQL
+- MongoDB
 
 ## Software 
 - Git
