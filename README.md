@@ -32,21 +32,16 @@ https://kawin101.github.io/
 ## 🧰 My Tool Box
 
 ### Frontend
-- Flutter & Dart
+- Flutter (Dart)
 - React
-- Angular
 - HTML 
 - CSS 
 
 ### Backend
-- Golang
-- Python
-- Django
-- Node.js
-- JavaScript
-- Laravel
-- PHP
-  
+- Fiber (Golang)
+- Django (Python)
+- Node.js (JavaScript)
+    
 ### Database
 - Supabase
 - Firebase
