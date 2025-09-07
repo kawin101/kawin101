@@ -33,12 +33,10 @@ https://kawin101.github.io/
 
 ### Frontend
 - Flutter
-- React
 - HTML5
 - CSS3
 
 ### Backend
-- Java
 - Golang
     
 ### Database
