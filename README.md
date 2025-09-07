@@ -1,5 +1,5 @@
-## Hi, I'm Green 👋
-i make apps with ❤️ from Thailand 🇹🇭.
+## Hi, I'm Green
+i make apps.
 
 ### Contact
 - E-mail: kawinphop.chomnikorn@gmail.com
@@ -37,7 +37,7 @@ https://kawin101.github.io/
 - CSS3
 
 ### Backend
-- Golang
+- ???? in learing...
     
 ### Database
 - Supabase
