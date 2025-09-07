@@ -8,17 +8,9 @@ i make apps.
 - Fastwork: https://fastwork.co/user/kawin101x/mobile-application-11960497
 
 ### Company App (In Progress) – I'm responsible for development
-#### 1.Botnoi Voice - Text to Speech
+#### Botnoi Voice - Text to Speech
 - Google Play: https://play.google.com/store/apps/details?id=com.mobile.botnoivoice&hl=en
 - App Store: https://apps.apple.com/th/app/botnoi-voice-text-to-speech/id6670564712
-
-#### 2. ??? (In Development...)
-- Google Play:
-- App Store:
-
-#### 3. ??? (In Development...)
-- Google Play:
-- App Store:
 
 ### Open Source App
 - [Dog-friendly Hotel Search Web Application Development](https://github.com/kawin101/Django_E-Commerce)
