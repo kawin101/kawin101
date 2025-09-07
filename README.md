@@ -38,7 +38,7 @@ https://kawin101.github.io/
 
 <!--WEATHER_UPDATE-->
 
-## 🧰 My Tool Box
+## 🧰 Skills
 - 1.Programming Language: Dart
 - 2.Frontend Frameworks: Flutter
 - 3.Database: Supabase, Firebase
