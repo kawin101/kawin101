@@ -30,21 +30,6 @@ https://kawin101.github.io/
 
 <!--WEATHER_UPDATE-->
 
-## Skills
-- 1.Programming Language: Dart
-- 2.Frontend Frameworks: Flutter
-- 3.Database: Supabase, Firebase
-- 4.State Management: Change Notifier, Provider, Riverpod
-- 5.Version Control: Git
-- 6.API Integration: RESTful APIs
-- 7.App Store: App Store Connect, Google Play Console
-- 8.CI/CD: Firebase App Distribution, TestFlight
-- 9.Authentication: Firebase Authentication
-- 10.Payment Integration: RevenueCat (In-App Purchases)
-- 11.Notification: Firebase Cloud Messaging (FCM)
-- 12.Software: Postman, VS Code, Xcode, Android Studio, ClickUp, GitHub, Figma
-- 13.Etc: Command Line Tools, macOS, Linux, XML, JSON
-
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
