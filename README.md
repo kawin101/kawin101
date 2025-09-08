@@ -17,7 +17,7 @@ i make apps.
 - [Flutter Shopping App](https://github.com/kawin101/flutter-api-shopping-app)
 
 ### CV
-https://github.com/kawin101/kawin101.github.io/blob/main/assets/resume_kawinphop_chomnikorn.pdf
+https://github.com/kawin101/kawin101.github.io/blob/main/assets/cv_kawinphop_chomnikorn.pdf
 
 ### Portfolio 
 https://kawin101.github.io/
