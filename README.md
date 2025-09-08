@@ -78,16 +78,3 @@ JSON with Comments        0 hrs 0 mins  0.00 %
 ```
 
 <!--END_SECTION:waka-->
-
-
-## 🪶 GitHub State
-
-<table>
-<tr>
-   
-<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kawin101&amp;theme=monokai" alt="" width="100%" /></td>
-<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kawin101&amp;theme=monokai&amp;utcOffset=8" alt="" width="100%" /></td>
-<td><img src="https://awesome-github-stats.azurewebsites.net/user-stats/kawin101?cardType=level-alternate&amp;theme=monokai&amp;Text=DDA22A" alt="kawin101's GitHub Stats" width="100%" /></td>
-<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kawin101&amp;theme=monokai" alt="" width="100%" /></td>
-</tr>
-</table>
