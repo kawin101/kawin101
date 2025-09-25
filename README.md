@@ -31,36 +31,36 @@ https://kawin101.github.io/
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 24 September 2025
+From: 2024-06-02T17:00:00Z - To: 25 September 2025
 
-Total Time: 890 hrs 48 mins
+Total Time: 895 hrs 16 mins
 
-Dart                      763 hrs 27 mins 84.85 %
-YAML                      22 hrs 54 mins  2.55 %
-JSON                      19 hrs 36 mins  2.18 %
-Groovy                    19 hrs 6 mins  2.12 %
-XML                       14 hrs 11 mins  1.58 %
+Dart                      766 hrs 53 mins 84.81 %
+YAML                      23 hrs 18 mins  2.58 %
+JSON                      19 hrs 36 mins  2.17 %
+Groovy                    19 hrs 6 mins  2.11 %
+XML                       14 hrs 37 mins  1.62 %
 Python                    10 hrs 34 mins  1.17 %
-Other                     8 hrs 54 mins  0.99 %
+Other                     8 hrs 55 mins  0.99 %
 HTML                      5 hrs 51 mins  0.65 %
 JavaScript                5 hrs 30 mins  0.61 %
 Java Properties           4 hrs 35 mins  0.51 %
 TypeScript                4 hrs 30 mins  0.50 %
 Markdown                  4 hrs 8 mins  0.46 %
 Image (svg)               2 hrs 57 mins  0.33 %
-Bash                      2 hrs 17 mins  0.26 %
+Bash                      2 hrs 17 mins  0.25 %
 Go                        2 hrs 3 mins  0.23 %
+CocoaPods                 1 hrs 54 mins  0.21 %
 Git Config                1 hrs 48 mins  0.20 %
-CocoaPods                 1 hrs 42 mins  0.19 %
 Text                      1 hrs 27 mins  0.16 %
 Kotlin                    0 hrs 50 mins  0.09 %
 C                         0 hrs 41 mins  0.08 %
-SQL                       0 hrs 40 mins  0.08 %
+SQL                       0 hrs 40 mins  0.07 %
 Swift                     0 hrs 33 mins  0.06 %
 CSV                       0 hrs 21 mins  0.04 %
 Java                      0 hrs 17 mins  0.03 %
 TSConfig                  0 hrs 15 mins  0.03 %
-CMake                     0 hrs 8 mins  0.02 %
+CMake                     0 hrs 8 mins  0.01 %
 Batchfile                 0 hrs 5 mins  0.01 %
 CSS                       0 hrs 3 mins  0.01 %
 Prolog                    0 hrs 1 mins  0.00 %
