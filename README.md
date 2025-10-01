@@ -31,28 +31,28 @@ https://kawin101.github.io/
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 30 September 2025
+From: 2024-06-02T17:00:00Z - To: 01 October 2025
 
-Total Time: 903 hrs 32 mins
+Total Time: 907 hrs 2 mins
 
-Dart                      772 hrs 57 mins 84.70 %
-YAML                      23 hrs 22 mins  2.56 %
-JSON                      20 hrs 19 mins  2.23 %
-Groovy                    19 hrs 13 mins  2.11 %
-XML                       15 hrs 17 mins  1.68 %
-Python                    10 hrs 34 mins  1.16 %
-Other                     9 hrs 1 mins  0.99 %
+Dart                      775 hrs 19 mins 84.63 %
+YAML                      23 hrs 45 mins  2.59 %
+JSON                      20 hrs 19 mins  2.22 %
+Groovy                    19 hrs 47 mins  2.16 %
+XML                       15 hrs 21 mins  1.68 %
+Python                    10 hrs 34 mins  1.15 %
+Other                     9 hrs 6 mins  0.99 %
 HTML                      5 hrs 51 mins  0.64 %
 JavaScript                5 hrs 30 mins  0.60 %
-Java Properties           4 hrs 36 mins  0.50 %
+Java Properties           4 hrs 38 mins  0.51 %
 TypeScript                4 hrs 30 mins  0.49 %
 Markdown                  4 hrs 8 mins  0.45 %
 Image (svg)               2 hrs 57 mins  0.32 %
-CocoaPods                 2 hrs 29 mins  0.27 %
+CocoaPods                 2 hrs 30 mins  0.27 %
 Bash                      2 hrs 17 mins  0.25 %
 Go                        2 hrs 3 mins  0.23 %
 Git Config                1 hrs 48 mins  0.20 %
-Text                      1 hrs 27 mins  0.16 %
+Text                      1 hrs 29 mins  0.16 %
 Kotlin                    0 hrs 53 mins  0.10 %
 C                         0 hrs 41 mins  0.08 %
 SQL                       0 hrs 40 mins  0.07 %
@@ -63,7 +63,7 @@ TSConfig                  0 hrs 15 mins  0.03 %
 CMake                     0 hrs 8 mins  0.02 %
 Batchfile                 0 hrs 5 mins  0.01 %
 CSS                       0 hrs 3 mins  0.01 %
-Prolog                    0 hrs 1 mins  0.00 %
+Prolog                    0 hrs 2 mins  0.00 %
 C++                       0 hrs 0 mins  0.00 %
 SCSS                      0 hrs 0 mins  0.00 %
 Objective-C               0 hrs 0 mins  0.00 %
