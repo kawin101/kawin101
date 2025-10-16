@@ -31,25 +31,25 @@ https://kawin101.github.io/
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 14 October 2025
+From: 2024-06-02T17:00:00Z - To: 16 October 2025
 
-Total Time: 926 hrs 59 mins
+Total Time: 928 hrs 6 mins
 
-Dart                      790 hrs 25 mins 84.25 %
+Dart                      791 hrs 6 mins 84.22 %
 YAML                      24 hrs 54 mins  2.65 %
 Groovy                    22 hrs 10 mins  2.36 %
-JSON                      20 hrs 23 mins  2.17 %
+JSON                      20 hrs 46 mins  2.21 %
 XML                       15 hrs 42 mins  1.67 %
-Other                     11 hrs 12 mins  1.20 %
+Other                     11 hrs 13 mins  1.20 %
 Python                    10 hrs 35 mins  1.13 %
-HTML                      5 hrs 51 mins  0.63 %
+HTML                      5 hrs 51 mins  0.62 %
 JavaScript                5 hrs 30 mins  0.59 %
 Java Properties           5 hrs 26 mins  0.58 %
-TypeScript                4 hrs 30 mins  0.48 %
-Markdown                  4 hrs 8 mins  0.44 %
+TypeScript                4 hrs 31 mins  0.48 %
+Markdown                  4 hrs 10 mins  0.44 %
 Image (svg)               2 hrs 57 mins  0.32 %
 CocoaPods                 2 hrs 31 mins  0.27 %
-Bash                      2 hrs 17 mins  0.25 %
+Bash                      2 hrs 18 mins  0.24 %
 Go                        2 hrs 3 mins  0.22 %
 Git Config                1 hrs 49 mins  0.19 %
 Text                      1 hrs 30 mins  0.16 %
@@ -66,12 +66,12 @@ Prolog                    0 hrs 5 mins  0.01 %
 CSS                       0 hrs 3 mins  0.01 %
 C++                       0 hrs 0 mins  0.00 %
 SCSS                      0 hrs 0 mins  0.00 %
+Docker                    0 hrs 0 mins  0.00 %
 Objective-C               0 hrs 0 mins  0.00 %
 PowerShell                0 hrs 0 mins  0.00 %
 Cocoa                     0 hrs 0 mins  0.00 %
 INI                       0 hrs 0 mins  0.00 %
 Todotxt                   0 hrs 0 mins  0.00 %
-Docker                    0 hrs 0 mins  0.00 %
 JSON with Comments        0 hrs 0 mins  0.00 %
 ```
 
