@@ -1,7 +1,11 @@
 ## Hi, I'm Green
 i make apps.
 
+### CV
+https://github.com/kawin101/kawin101.github.io/blob/main/assets/cv_kawinphop_chomnikorn.pdf
+
 ### Contact
+- Website: https://kawin101.github.io/
 - E-mail: kawinphop.chomnikorn@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kawinphop/
 - Facebook: https://www.facebook.com/profile.php?id=61564532357707
@@ -13,12 +17,6 @@ i make apps.
 ### Open Source App
 - [Dog-friendly Hotel Search Web Application Development](https://github.com/kawin101/Django_E-Commerce)
 - [Flutter Shopping App](https://github.com/kawin101/flutter-api-shopping-app)
-
-### CV
-https://github.com/kawin101/kawin101.github.io/blob/main/assets/cv_kawinphop_chomnikorn.pdf
-
-### Portfolio 
-https://kawin101.github.io/
 
 ### Weather
 <!-- ใช้เวลา ประเทศไทย UTC +7 -->
