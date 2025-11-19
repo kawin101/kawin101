@@ -31,25 +31,25 @@ https://github.com/kawin101/kawin101.github.io/blob/main/assets/cv_kawinphop_cho
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 18 November 2025
+From: 2024-06-02T17:00:00Z - To: 19 November 2025
 
-Total Time: 965 hrs 11 mins
+Total Time: 968 hrs 38 mins
 
-Dart                      821 hrs 20 mins 84.03 %
-YAML                      26 hrs 56 mins  2.76 %
-Groovy                    23 hrs 26 mins  2.40 %
-JSON                      21 hrs 4 mins  2.16 %
-XML                       16 hrs 29 mins  1.69 %
-Other                     12 hrs 17 mins  1.26 %
+Dart                      824 hrs 8 mins 84.02 %
+YAML                      26 hrs 57 mins  2.75 %
+Groovy                    23 hrs 26 mins  2.39 %
+JSON                      21 hrs 6 mins  2.15 %
+XML                       16 hrs 29 mins  1.68 %
+Other                     12 hrs 18 mins  1.25 %
 Python                    10 hrs 35 mins  1.08 %
-JavaScript                6 hrs 18 mins  0.65 %
+JavaScript                6 hrs 19 mins  0.64 %
 HTML                      6 hrs 18 mins  0.64 %
 Java Properties           6 hrs 8 mins  0.63 %
-TypeScript                4 hrs 31 mins  0.46 %
+TypeScript                4 hrs 35 mins  0.47 %
 Markdown                  4 hrs 19 mins  0.44 %
 Image (svg)               2 hrs 57 mins  0.30 %
 CocoaPods                 2 hrs 51 mins  0.29 %
-Bash                      2 hrs 18 mins  0.24 %
+Bash                      2 hrs 19 mins  0.24 %
 Go                        2 hrs 3 mins  0.21 %
 Git Config                1 hrs 50 mins  0.19 %
 Text                      1 hrs 30 mins  0.15 %
@@ -57,6 +57,7 @@ Kotlin                    0 hrs 53 mins  0.09 %
 C                         0 hrs 41 mins  0.07 %
 SQL                       0 hrs 40 mins  0.07 %
 Swift                     0 hrs 33 mins  0.06 %
+PHP                       0 hrs 29 mins  0.05 %
 CSV                       0 hrs 21 mins  0.04 %
 Java                      0 hrs 18 mins  0.03 %
 TSConfig                  0 hrs 15 mins  0.03 %
