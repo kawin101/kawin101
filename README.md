@@ -31,25 +31,25 @@ https://github.com/kawin101/kawin101.github.io/blob/main/assets/cv_kawinphop_cho
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 19 November 2025
+From: 2024-06-02T17:00:00Z - To: 20 November 2025
 
-Total Time: 968 hrs 38 mins
+Total Time: 977 hrs 40 mins
 
-Dart                      824 hrs 8 mins 84.02 %
-YAML                      26 hrs 57 mins  2.75 %
-Groovy                    23 hrs 26 mins  2.39 %
-JSON                      21 hrs 6 mins  2.15 %
-XML                       16 hrs 29 mins  1.68 %
-Other                     12 hrs 18 mins  1.25 %
-Python                    10 hrs 35 mins  1.08 %
+Dart                      833 hrs 5 mins 84.15 %
+YAML                      27 hrs 1 mins  2.73 %
+Groovy                    23 hrs 26 mins  2.37 %
+JSON                      21 hrs 6 mins  2.13 %
+XML                       16 hrs 29 mins  1.67 %
+Other                     12 hrs 19 mins  1.24 %
+Python                    10 hrs 35 mins  1.07 %
 JavaScript                6 hrs 19 mins  0.64 %
 HTML                      6 hrs 18 mins  0.64 %
-Java Properties           6 hrs 8 mins  0.63 %
-TypeScript                4 hrs 35 mins  0.47 %
+Java Properties           6 hrs 8 mins  0.62 %
+TypeScript                4 hrs 35 mins  0.46 %
 Markdown                  4 hrs 19 mins  0.44 %
 Image (svg)               2 hrs 57 mins  0.30 %
 CocoaPods                 2 hrs 51 mins  0.29 %
-Bash                      2 hrs 19 mins  0.24 %
+Bash                      2 hrs 19 mins  0.23 %
 Go                        2 hrs 3 mins  0.21 %
 Git Config                1 hrs 50 mins  0.19 %
 Text                      1 hrs 30 mins  0.15 %
@@ -57,11 +57,11 @@ Kotlin                    0 hrs 53 mins  0.09 %
 C                         0 hrs 41 mins  0.07 %
 SQL                       0 hrs 40 mins  0.07 %
 Swift                     0 hrs 33 mins  0.06 %
-PHP                       0 hrs 29 mins  0.05 %
+PHP                       0 hrs 31 mins  0.05 %
 CSV                       0 hrs 21 mins  0.04 %
 Java                      0 hrs 18 mins  0.03 %
 TSConfig                  0 hrs 15 mins  0.03 %
-CMake                     0 hrs 8 mins  0.02 %
+CMake                     0 hrs 8 mins  0.01 %
 Batchfile                 0 hrs 5 mins  0.01 %
 Prolog                    0 hrs 5 mins  0.01 %
 CSS                       0 hrs 3 mins  0.01 %
