@@ -31,11 +31,11 @@ https://github.com/kawin101/kawin101.github.io/blob/main/assets/cv_kawinphop_cho
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 01 December 2025
+From: 2024-06-02T17:00:00Z - To: 02 December 2025
 
-Total Time: 1006 hrs 23 mins
+Total Time: 1006 hrs 37 mins
 
-Dart                      857 hrs 58 mins 84.02 %
+Dart                      858 hrs 12 mins 84.02 %
 YAML                      27 hrs 51 mins  2.73 %
 Groovy                    24 hrs 13 mins  2.37 %
 JSON                      22 hrs 8 mins  2.17 %
