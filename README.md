@@ -31,26 +31,26 @@ https://github.com/kawin101/kawin101.github.io/blob/main/assets/cv_kawinphop_cho
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 02 December 2025
+From: 2024-06-02T17:00:00Z - To: 03 December 2025
 
-Total Time: 1006 hrs 37 mins
+Total Time: 1008 hrs 54 mins
 
-Dart                      858 hrs 12 mins 84.02 %
-YAML                      27 hrs 51 mins  2.73 %
+Dart                      859 hrs 42 mins 83.95 %
+YAML                      27 hrs 58 mins  2.73 %
 Groovy                    24 hrs 13 mins  2.37 %
-JSON                      22 hrs 8 mins  2.17 %
-XML                       16 hrs 45 mins  1.64 %
-Other                     14 hrs 46 mins  1.45 %
-Python                    10 hrs 35 mins  1.04 %
+JSON                      22 hrs 8 mins  2.16 %
+XML                       16 hrs 46 mins  1.64 %
+Other                     15 hrs 8 mins  1.48 %
+Python                    10 hrs 35 mins  1.03 %
 JavaScript                6 hrs 19 mins  0.62 %
 HTML                      6 hrs 19 mins  0.62 %
 Java Properties           6 hrs 13 mins  0.61 %
+Markdown                  4 hrs 42 mins  0.46 %
 TypeScript                4 hrs 35 mins  0.45 %
-Markdown                  4 hrs 29 mins  0.44 %
 Image (svg)               2 hrs 57 mins  0.29 %
-CocoaPods                 2 hrs 52 mins  0.28 %
-Bash                      2 hrs 29 mins  0.24 %
-Git Config                2 hrs 13 mins  0.22 %
+CocoaPods                 2 hrs 53 mins  0.28 %
+Bash                      2 hrs 47 mins  0.27 %
+Git Config                2 hrs 20 mins  0.23 %
 Go                        2 hrs 7 mins  0.21 %
 Text                      1 hrs 30 mins  0.15 %
 Kotlin                    0 hrs 53 mins  0.09 %
@@ -67,9 +67,9 @@ Prolog                    0 hrs 5 mins  0.01 %
 CSS                       0 hrs 3 mins  0.01 %
 C++                       0 hrs 0 mins  0.00 %
 SCSS                      0 hrs 0 mins  0.00 %
+Lua                       0 hrs 0 mins  0.00 %
 Docker                    0 hrs 0 mins  0.00 %
 Objective-C               0 hrs 0 mins  0.00 %
-Lua                       0 hrs 0 mins  0.00 %
 PowerShell                0 hrs 0 mins  0.00 %
 Cocoa                     0 hrs 0 mins  0.00 %
 INI                       0 hrs 0 mins  0.00 %
