@@ -22,9 +22,9 @@ https://github.com/kawin101/kawin101.github.io/blob/main/assets/cv_kawinphop_cho
 
 ### Weather
 <!-- ใช้เวลา ประเทศไทย UTC +7 -->
-🕒 **Date/Time:** 2025-12-05 18:19:37<br>
-🌡️ **Temperature:** 🌤️ 27.5°C<br>
-💨 **Wind Speed:** 1.1 km/h<br>
+🕒 **Date/Time:** 2025-12-06 06:19:26<br>
+🌡️ **Temperature:** 🌤️ 27.1°C<br>
+💨 **Wind Speed:** 6.6 km/h<br>
 
 <!--WEATHER_UPDATE-->
 
