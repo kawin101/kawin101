@@ -13,6 +13,8 @@ https://github.com/kawin101/kawin101.github.io/blob/main/assets/cv_kawinphop_cho
 
 ### Company App
 - Botnoi Voice - Text to Speech. [Play Store](https://play.google.com/store/apps/details?id=com.mobile.botnoivoice&hl=en) | [App Store](https://apps.apple.com/th/app/botnoi-voice-text-to-speech/id6670564712)
+- AI Friend Hub. [Play Store](https://play.google.com/store/apps/details?id=com.botnoimobile.aifriendhub&pcampaignid=web_share) | [App Store](https://apps.apple.com/th/app/ai-friend-hub/id6744385578)
+
 
 ### Open Source App
 - [Dog-friendly Hotel Search Web Application Development](https://github.com/kawin101/Django_E-Commerce)
