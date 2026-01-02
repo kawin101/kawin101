@@ -7,7 +7,7 @@ https://github.com/kawin101/kawin101.github.io/blob/main/assets/cv_kawinphop_cho
 ### Contact
 - Website: https://kawin101.github.io/
 - E-mail: kawinphop.chomnikorn@gmail.com
-- LinkedIn: https://www.linkedin.com/in/kawinphop/
+- LinkedIn: https://www.linkedin.com/in/kawinphop-c/
 - Facebook: https://www.facebook.com/profile.php?id=61564532357707
 - Fastwork: https://fastwork.co/user/kawin101x/mobile-application-11960497
 
