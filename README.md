@@ -17,9 +17,9 @@ https://github.com/kawin101/kawin101.github.io/blob/main/assets/cv_kawinphop_cho
 
 
 ### Open Source App
-- [Dog-friendly Hotel Search Web Application Development](https://github.com/kawin101/Django_E-Commerce)
-- [Flutter Shopping App](https://github.com/kawin101/flutter-api-shopping-app)
-- [Flutter, PHP, Laravel, JWT, Income Expense Tracker Mobile App](https://github.com/kawin101/Flutter-PHP-Laravel-JWT-Income-Expense-Tracker-Mobile-App)
+- [Dog-friendly Hotel Search Full Stack Web App (Django)](https://github.com/kawin101/Django_E-Commerce)
+- [Shopping App (Flutter, Node.js)](https://github.com/kawin101/flutter-api-shopping-app)
+- [Money Tracker Mobile App (Flutter, Laravel](https://github.com/kawin101/Flutter-PHP-Laravel-JWT-Income-Expense-Tracker-Mobile-App)
 - [Java Sprint Boot RESTful API](https://github.com/kawin101/Java-Sprint-Boot-REST-API)
 
 ### Weather
