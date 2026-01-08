@@ -5,6 +5,7 @@ i make apps.
 https://github.com/kawin101/kawin101.github.io/blob/main/assets/cv_kawinphop_chomnikorn.pdf
 
 ### Contact
+- GitHub: https://github.com/kawin101/
 - Website: https://kawin101.github.io/
 - E-mail: kawinphop.chomnikorn@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kawinphop-c/
