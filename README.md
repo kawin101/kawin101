@@ -1,6 +1,3 @@
-## Hi, I'm Green
-i make apps.
-
 ### CV
 https://github.com/kawin101/kawin101.github.io/blob/main/assets/cv_kawinphop_chomnikorn.pdf
 
