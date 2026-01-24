@@ -1,3 +1,6 @@
+## Hi Everyone, My name is Green.
+i make mobile apps with Flutter for iOS and Android on Mac Mini M4 (2024).
+
 ### CV
 https://github.com/kawin101/kawin101.github.io/blob/main/assets/cv_kawinphop_chomnikorn.pdf
 
