@@ -30,7 +30,7 @@ https://github.com/kawin101/kawin101.github.io/blob/main/assets/cv_kawinphop_cho
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 08 February 2026
+From: 2024-06-02T17:00:00Z - To: 09 February 2026
 
 Total Time: 1072 hrs 20 mins
 
