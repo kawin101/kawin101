@@ -1,3 +1,6 @@
+# Hi, I'm Green.
+- Build Mobile App with Flutter for Android and iOS on MacOS. 2 years experience. Currently leading the Botnoi Mobile Team for the "Botnoi Voice – Text to Speech" and "AI Friend Hub" on Google Play and App Store. Passionate about make products to global marketplaces.
+
 ### CV
 https://github.com/kawin101/kawin101.github.io/blob/main/assets/cv_kawinphop_chomnikorn.pdf
 
