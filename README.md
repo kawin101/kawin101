@@ -25,9 +25,9 @@ https://github.com/kawin101/kawin101.github.io/blob/main/assets/cv_kawinphop_cho
 
 ### Weather
 <!-- ใช้เวลา ประเทศไทย UTC +7 -->
-🕒 **Date/Time:** 2026-03-04 06:28:28<br>
-🌡️ **Temperature:** 🌤️ 28.5°C<br>
-💨 **Wind Speed:** 11.7 km/h<br>
+🕒 **Date/Time:** 2026-03-04 18:31:11<br>
+🌡️ **Temperature:** 🌤️ 29.4°C<br>
+💨 **Wind Speed:** 15.9 km/h<br>
 
 <!--WEATHER_UPDATE-->
 
