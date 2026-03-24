@@ -2,7 +2,7 @@
 2 years of experience in Mobile App Development with Flutter for Android and iOS on macOS. Currently leading the Botnoi Mobile Team for "Botnoi Voice – Text to Speech" and "AI Friend Hub" on Google Play and App Store. Passionate about building products for global marketplaces.
 
 ### CV
-https://github.com/kawin101/kawin101.github.io/blob/main/assets/cv_kawinphop_chomnikorn.pdf
+https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv_kawinphop_chomnikorn.pdf
 
 ### Contact
 - Website: https://kawin101.github.io/
