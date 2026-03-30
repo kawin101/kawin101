@@ -7,10 +7,6 @@ https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv
 ### Contact
 - Website: https://kawin101.github.io/
 - E-mail: kawinphop.chomnikorn@gmail.com
-- LinkedIn: https://www.linkedin.com/in/kawinphop-c/
-- Facebook: https://www.facebook.com/profile.php?id=61564532357707
-- LINE ID: https://line.me/ti/p/2IFomqGew1
-- Fastwork: https://fastwork.co/user/kawin101/mobile-application-44485479
 
 ### Company App
 - Botnoi Voice - Text to Speech. [Play Store](https://play.google.com/store/apps/details?id=com.mobile.botnoivoice&hl=en) | [App Store](https://apps.apple.com/th/app/botnoi-voice-text-to-speech/id6670564712)
