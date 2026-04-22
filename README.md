@@ -30,24 +30,24 @@ https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 21 April 2026
+From: 2024-06-02T17:00:00Z - To: 22 April 2026
 
-Total Time: 1122 hrs 18 mins
+Total Time: 1124 hrs 52 mins
 
-Dart                      950 hrs 50 mins 83.39 %
-YAML                      32 hrs 28 mins  2.85 %
-JSON                      27 hrs 21 mins  2.40 %
-Groovy                    24 hrs 49 mins  2.18 %
+Dart                      952 hrs 11 mins 83.32 %
+YAML                      32 hrs 37 mins  2.85 %
+JSON                      27 hrs 25 mins  2.40 %
+Groovy                    24 hrs 49 mins  2.17 %
 Other                     17 hrs 56 mins  1.57 %
 XML                       17 hrs 35 mins  1.54 %
 Python                    10 hrs 36 mins  0.93 %
-Markdown                  7 hrs 6 mins  0.62 %
+Markdown                  7 hrs 37 mins  0.67 %
 Java Properties           6 hrs 39 mins  0.58 %
-JavaScript                6 hrs 19 mins  0.56 %
+JavaScript                6 hrs 19 mins  0.55 %
 HTML                      6 hrs 19 mins  0.55 %
-Bash                      5 hrs 25 mins  0.48 %
+Bash                      5 hrs 32 mins  0.48 %
 Go                        4 hrs 49 mins  0.42 %
-TypeScript                4 hrs 35 mins  0.40 %
+TypeScript                4 hrs 36 mins  0.40 %
 CocoaPods                 4 hrs 6 mins  0.36 %
 Git Config                3 hrs 43 mins  0.33 %
 Image (svg)               2 hrs 59 mins  0.26 %
@@ -58,6 +58,7 @@ SQL                       0 hrs 40 mins  0.06 %
 Swift                     0 hrs 35 mins  0.05 %
 PHP                       0 hrs 31 mins  0.05 %
 CSV                       0 hrs 21 mins  0.03 %
+Svelte                    0 hrs 21 mins  0.03 %
 Java                      0 hrs 18 mins  0.03 %
 TSConfig                  0 hrs 15 mins  0.02 %
 Prolog                    0 hrs 9 mins  0.01 %
@@ -74,6 +75,7 @@ PowerShell                0 hrs 0 mins  0.00 %
 Cocoa                     0 hrs 0 mins  0.00 %
 INI                       0 hrs 0 mins  0.00 %
 Todotxt                   0 hrs 0 mins  0.00 %
+GraphQL                   0 hrs 0 mins  0.00 %
 Ruby                      0 hrs 0 mins  0.00 %
 JSON with Comments        0 hrs 0 mins  0.00 %
 ```
