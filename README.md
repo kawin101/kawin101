@@ -30,25 +30,25 @@ https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 27 April 2026
+From: 2024-06-02T17:00:00Z - To: 28 April 2026
 
-Total Time: 1135 hrs 9 mins
+Total Time: 1139 hrs 50 mins
 
-Dart                      961 hrs 0 mins 83.33 %
-YAML                      33 hrs 0 mins  2.86 %
-JSON                      27 hrs 26 mins  2.38 %
-Groovy                    24 hrs 49 mins  2.15 %
-Other                     18 hrs 5 mins  1.57 %
-XML                       17 hrs 35 mins  1.53 %
-Python                    10 hrs 49 mins  0.94 %
-Markdown                  7 hrs 52 mins  0.68 %
+Dart                      965 hrs 7 mins 83.35 %
+YAML                      33 hrs 14 mins  2.87 %
+JSON                      27 hrs 46 mins  2.40 %
+Groovy                    24 hrs 49 mins  2.14 %
+Other                     18 hrs 5 mins  1.56 %
+XML                       17 hrs 35 mins  1.52 %
+Python                    10 hrs 49 mins  0.93 %
+Markdown                  7 hrs 53 mins  0.68 %
 Java Properties           6 hrs 50 mins  0.59 %
 JavaScript                6 hrs 19 mins  0.55 %
 HTML                      6 hrs 19 mins  0.55 %
-Bash                      5 hrs 36 mins  0.49 %
+Bash                      5 hrs 36 mins  0.48 %
 Go                        4 hrs 49 mins  0.42 %
 TypeScript                4 hrs 36 mins  0.40 %
-CocoaPods                 4 hrs 6 mins  0.36 %
+CocoaPods                 4 hrs 6 mins  0.35 %
 Git Config                3 hrs 44 mins  0.32 %
 Image (svg)               2 hrs 59 mins  0.26 %
 Text                      1 hrs 56 mins  0.17 %
