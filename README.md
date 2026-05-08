@@ -30,32 +30,32 @@ https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 07 May 2026
+From: 2024-06-02T17:00:00Z - To: 08 May 2026
 
-Total Time: 1150 hrs 22 mins
+Total Time: 1154 hrs 4 mins
 
-Dart                      975 hrs 26 mins 83.48 %
-YAML                      33 hrs 14 mins  2.85 %
-JSON                      27 hrs 56 mins  2.39 %
+Dart                      978 hrs 20 mins 83.46 %
+YAML                      33 hrs 18 mins  2.84 %
+JSON                      27 hrs 56 mins  2.38 %
 Groovy                    24 hrs 49 mins  2.12 %
-Other                     18 hrs 5 mins  1.55 %
-XML                       17 hrs 35 mins  1.51 %
-Python                    10 hrs 49 mins  0.93 %
-Markdown                  7 hrs 53 mins  0.68 %
-Java Properties           6 hrs 50 mins  0.59 %
+Other                     18 hrs 10 mins  1.55 %
+XML                       17 hrs 35 mins  1.50 %
+Python                    10 hrs 49 mins  0.92 %
+Markdown                  7 hrs 56 mins  0.68 %
+Java Properties           6 hrs 50 mins  0.58 %
 JavaScript                6 hrs 19 mins  0.54 %
 HTML                      6 hrs 19 mins  0.54 %
-Bash                      5 hrs 37 mins  0.48 %
+Bash                      6 hrs 18 mins  0.54 %
 Go                        4 hrs 49 mins  0.41 %
 TypeScript                4 hrs 36 mins  0.39 %
 CocoaPods                 4 hrs 6 mins  0.35 %
 Git Config                3 hrs 44 mins  0.32 %
-Image (svg)               2 hrs 59 mins  0.26 %
+Image (svg)               2 hrs 59 mins  0.25 %
 Text                      1 hrs 56 mins  0.17 %
 Kotlin                    0 hrs 54 mins  0.08 %
 C                         0 hrs 42 mins  0.06 %
 SQL                       0 hrs 40 mins  0.06 %
-Swift                     0 hrs 35 mins  0.05 %
+Swift                     0 hrs 36 mins  0.05 %
 PHP                       0 hrs 31 mins  0.05 %
 CSV                       0 hrs 21 mins  0.03 %
 Svelte                    0 hrs 21 mins  0.03 %
@@ -72,6 +72,7 @@ SCSS                      0 hrs 0 mins  0.00 %
 Docker                    0 hrs 0 mins  0.00 %
 Objective-C               0 hrs 0 mins  0.00 %
 PowerShell                0 hrs 0 mins  0.00 %
+Makefile                  0 hrs 0 mins  0.00 %
 Cocoa                     0 hrs 0 mins  0.00 %
 INI                       0 hrs 0 mins  0.00 %
 Todotxt                   0 hrs 0 mins  0.00 %
