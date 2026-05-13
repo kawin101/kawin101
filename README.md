@@ -30,22 +30,22 @@ https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 12 May 2026
+From: 2024-06-02T17:00:00Z - To: 13 May 2026
 
-Total Time: 1157 hrs 52 mins
+Total Time: 1160 hrs 52 mins
 
-Dart                      982 hrs 5 mins 83.51 %
-YAML                      33 hrs 18 mins  2.83 %
-JSON                      27 hrs 56 mins  2.38 %
-Groovy                    24 hrs 49 mins  2.11 %
-Other                     18 hrs 12 mins  1.55 %
-XML                       17 hrs 35 mins  1.50 %
+Dart                      984 hrs 38 mins 83.50 %
+YAML                      33 hrs 22 mins  2.83 %
+JSON                      27 hrs 57 mins  2.37 %
+Groovy                    24 hrs 49 mins  2.10 %
+Other                     18 hrs 20 mins  1.55 %
+XML                       17 hrs 35 mins  1.49 %
 Python                    10 hrs 49 mins  0.92 %
-Markdown                  7 hrs 56 mins  0.68 %
+Markdown                  7 hrs 56 mins  0.67 %
 Java Properties           6 hrs 50 mins  0.58 %
-HTML                      6 hrs 19 mins  0.54 %
+HTML                      6 hrs 40 mins  0.57 %
+Bash                      6 hrs 21 mins  0.54 %
 JavaScript                6 hrs 19 mins  0.54 %
-Bash                      6 hrs 19 mins  0.54 %
 Go                        4 hrs 49 mins  0.41 %
 TypeScript                4 hrs 36 mins  0.39 %
 CocoaPods                 4 hrs 6 mins  0.35 %
@@ -56,7 +56,7 @@ Kotlin                    0 hrs 54 mins  0.08 %
 C                         0 hrs 42 mins  0.06 %
 SQL                       0 hrs 40 mins  0.06 %
 Swift                     0 hrs 36 mins  0.05 %
-PHP                       0 hrs 31 mins  0.05 %
+PHP                       0 hrs 31 mins  0.04 %
 CSV                       0 hrs 21 mins  0.03 %
 Svelte                    0 hrs 21 mins  0.03 %
 Java                      0 hrs 18 mins  0.03 %
@@ -65,7 +65,7 @@ Prolog                    0 hrs 9 mins  0.01 %
 CMake                     0 hrs 9 mins  0.01 %
 Batchfile                 0 hrs 5 mins  0.01 %
 CSS                       0 hrs 3 mins  0.01 %
-Git                       0 hrs 1 mins  0.00 %
+Git                       0 hrs 2 mins  0.00 %
 C++                       0 hrs 0 mins  0.00 %
 Lua                       0 hrs 0 mins  0.00 %
 SCSS                      0 hrs 0 mins  0.00 %
