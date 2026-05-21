@@ -30,19 +30,19 @@ https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 19 May 2026
+From: 2024-06-02T17:00:00Z - To: 21 May 2026
 
-Total Time: 1175 hrs 34 mins
+Total Time: 1177 hrs 53 mins
 
-Dart                      997 hrs 28 mins 83.53 %
-YAML                      33 hrs 24 mins  2.80 %
+Dart                      999 hrs 19 mins 83.53 %
+YAML                      33 hrs 24 mins  2.79 %
 JSON                      27 hrs 57 mins  2.34 %
-Groovy                    24 hrs 49 mins  2.08 %
+Groovy                    24 hrs 49 mins  2.07 %
 Other                     18 hrs 31 mins  1.55 %
 XML                       17 hrs 47 mins  1.49 %
-Python                    10 hrs 49 mins  0.91 %
-Bash                      8 hrs 0 mins  0.67 %
-Markdown                  7 hrs 56 mins  0.67 %
+Python                    10 hrs 49 mins  0.90 %
+Bash                      8 hrs 20 mins  0.70 %
+Markdown                  7 hrs 58 mins  0.67 %
 Java Properties           6 hrs 50 mins  0.57 %
 HTML                      6 hrs 40 mins  0.56 %
 JavaScript                6 hrs 19 mins  0.53 %
@@ -64,15 +64,16 @@ TSConfig                  0 hrs 15 mins  0.02 %
 Prolog                    0 hrs 9 mins  0.01 %
 CMake                     0 hrs 9 mins  0.01 %
 Batchfile                 0 hrs 5 mins  0.01 %
+Makefile                  0 hrs 4 mins  0.01 %
 CSS                       0 hrs 3 mins  0.01 %
 Git                       0 hrs 2 mins  0.00 %
+Desktop file              0 hrs 0 mins  0.00 %
 C++                       0 hrs 0 mins  0.00 %
 Lua                       0 hrs 0 mins  0.00 %
 SCSS                      0 hrs 0 mins  0.00 %
 Docker                    0 hrs 0 mins  0.00 %
 Objective-C               0 hrs 0 mins  0.00 %
 PowerShell                0 hrs 0 mins  0.00 %
-Makefile                  0 hrs 0 mins  0.00 %
 Cocoa                     0 hrs 0 mins  0.00 %
 INI                       0 hrs 0 mins  0.00 %
 Todotxt                   0 hrs 0 mins  0.00 %
