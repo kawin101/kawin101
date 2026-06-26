@@ -30,17 +30,17 @@ https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 25 June 2026
+From: 2024-06-02T17:00:00Z - To: 26 June 2026
 
-Total Time: 1248 hrs 31 mins
+Total Time: 1252 hrs 12 mins
 
-Dart                      1066 hrs 3 mins 84.02 %
+Dart                      1069 hrs 27 mins 84.04 %
 YAML                      33 hrs 25 mins  2.63 %
-JSON                      28 hrs 0 mins  2.21 %
-Groovy                    24 hrs 49 mins  1.96 %
+JSON                      28 hrs 0 mins  2.20 %
+Groovy                    24 hrs 49 mins  1.95 %
 Other                     20 hrs 20 mins  1.60 %
 XML                       17 hrs 47 mins  1.40 %
-Bash                      11 hrs 13 mins  0.88 %
+Bash                      11 hrs 28 mins  0.90 %
 Python                    10 hrs 57 mins  0.86 %
 Markdown                  8 hrs 12 mins  0.65 %
 Java Properties           6 hrs 50 mins  0.54 %
@@ -49,8 +49,8 @@ JavaScript                6 hrs 36 mins  0.52 %
 Go                        4 hrs 49 mins  0.38 %
 TypeScript                4 hrs 36 mins  0.36 %
 CocoaPods                 4 hrs 6 mins  0.32 %
-Git Config                3 hrs 44 mins  0.30 %
-Image (svg)               2 hrs 59 mins  0.24 %
+Git Config                3 hrs 44 mins  0.29 %
+Image (svg)               2 hrs 59 mins  0.23 %
 Text                      2 hrs 12 mins  0.17 %
 Kotlin                    0 hrs 54 mins  0.07 %
 C                         0 hrs 42 mins  0.06 %
@@ -67,8 +67,8 @@ Batchfile                 0 hrs 5 mins  0.01 %
 Makefile                  0 hrs 5 mins  0.01 %
 CSS                       0 hrs 3 mins  0.00 %
 Git                       0 hrs 2 mins  0.00 %
+Desktop file              0 hrs 2 mins  0.00 %
 C++                       0 hrs 1 mins  0.00 %
-Desktop file              0 hrs 0 mins  0.00 %
 Lua                       0 hrs 0 mins  0.00 %
 SCSS                      0 hrs 0 mins  0.00 %
 Docker                    0 hrs 0 mins  0.00 %
