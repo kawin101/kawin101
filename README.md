@@ -32,17 +32,17 @@ https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv
 ```txt
 From: 2024-06-02T17:00:00Z - To: 27 June 2026
 
-Total Time: 1253 hrs 23 mins
+Total Time: 1255 hrs 6 mins
 
-Dart                      1070 hrs 21 mins 84.03 %
+Dart                      1071 hrs 57 mins 84.04 %
 YAML                      33 hrs 25 mins  2.62 %
 JSON                      28 hrs 0 mins  2.20 %
 Groovy                    24 hrs 49 mins  1.95 %
 Other                     20 hrs 20 mins  1.60 %
 XML                       17 hrs 47 mins  1.40 %
-Bash                      11 hrs 44 mins  0.92 %
+Bash                      11 hrs 49 mins  0.93 %
 Python                    10 hrs 57 mins  0.86 %
-Markdown                  8 hrs 12 mins  0.64 %
+Markdown                  8 hrs 15 mins  0.65 %
 Java Properties           6 hrs 50 mins  0.54 %
 HTML                      6 hrs 40 mins  0.52 %
 JavaScript                6 hrs 36 mins  0.52 %
