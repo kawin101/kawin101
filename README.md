@@ -1,5 +1,6 @@
 # Hi, I'm Kawinphop.
-Make Mobile App with Flutter for Android/iOS on MacOS. Public App on Google Play & App Store
+### Phang Nga to Chatuchak, Thailand 🇹🇭
+- Make Mobile App with Flutter for Android/iOS on MacOS. Public App on Google Play & App Store
 
 ### CV
 https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv_kawinphop_chomnikorn.pdf
