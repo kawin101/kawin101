@@ -31,27 +31,27 @@ https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 22 July 2026
+From: 2024-06-02T17:00:00Z - To: 25 July 2026
 
-Total Time: 1305 hrs 56 mins
+Total Time: 1310 hrs 45 mins
 
-Dart                      1116 hrs 38 mins 84.15 %
-YAML                      33 hrs 25 mins  2.52 %
-JSON                      28 hrs 22 mins  2.14 %
-Groovy                    24 hrs 49 mins  1.87 %
-Other                     20 hrs 58 mins  1.58 %
+Dart                      1120 hrs 48 mins 84.15 %
+YAML                      33 hrs 25 mins  2.51 %
+JSON                      28 hrs 22 mins  2.13 %
+Groovy                    24 hrs 49 mins  1.86 %
+Other                     21 hrs 4 mins  1.58 %
 XML                       17 hrs 47 mins  1.34 %
-Bash                      16 hrs 27 mins  1.24 %
-Python                    10 hrs 57 mins  0.83 %
-Markdown                  9 hrs 5 mins  0.69 %
-Java Properties           6 hrs 50 mins  0.52 %
+Bash                      16 hrs 35 mins  1.25 %
+Python                    10 hrs 57 mins  0.82 %
+Markdown                  9 hrs 37 mins  0.72 %
+Java Properties           6 hrs 50 mins  0.51 %
 HTML                      6 hrs 40 mins  0.50 %
 JavaScript                6 hrs 36 mins  0.50 %
 Go                        4 hrs 49 mins  0.36 %
 TypeScript                4 hrs 36 mins  0.35 %
 CocoaPods                 4 hrs 6 mins  0.31 %
 Git Config                3 hrs 52 mins  0.29 %
-Image (svg)               2 hrs 59 mins  0.23 %
+Image (svg)               2 hrs 59 mins  0.22 %
 Text                      2 hrs 12 mins  0.17 %
 Kotlin                    0 hrs 54 mins  0.07 %
 C                         0 hrs 42 mins  0.05 %
@@ -64,7 +64,7 @@ Java                      0 hrs 18 mins  0.02 %
 TSConfig                  0 hrs 15 mins  0.02 %
 CMake                     0 hrs 10 mins  0.01 %
 Prolog                    0 hrs 9 mins  0.01 %
-C++                       0 hrs 7 mins  0.01 %
+C++                       0 hrs 8 mins  0.01 %
 Batchfile                 0 hrs 5 mins  0.01 %
 Makefile                  0 hrs 5 mins  0.01 %
 CSS                       0 hrs 3 mins  0.00 %
