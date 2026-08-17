@@ -1,5 +1,4 @@
-# Hi, I'm Kawinphop.
-### Phang Nga to Chatuchak, Thailand 🇹🇭
+# Hi, I'm Green.
 - Make Mobile App with Flutter for Android/iOS on MacOS. Public App on Google Play & App Store
 
 ### CV
