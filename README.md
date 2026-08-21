@@ -21,9 +21,9 @@ https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv
 
 ### Weather
 <!-- ใช้เวลา ประเทศไทย UTC +7 -->
-🕒 **Date/Time:** 2026-08-21 18:25:42<br>
-🌡️ **Temperature:** 🌤️ 27.2°C<br>
-💨 **Wind Speed:** 4.2 km/h<br>
+🕒 **Date/Time:** 2026-08-22 06:23:34<br>
+🌡️ **Temperature:** 🌤️ 24.2°C<br>
+💨 **Wind Speed:** 6.1 km/h<br>
 
 <!--WEATHER_UPDATE-->
 
