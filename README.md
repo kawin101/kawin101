@@ -30,7 +30,7 @@ https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 31 August 2026
+From: 2024-06-02T17:00:00Z - To: 01 September 2026
 
 Total Time: 1361 hrs 22 mins
 
