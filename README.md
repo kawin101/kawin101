@@ -30,20 +30,20 @@ https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 16 September 2026
+From: 2024-06-02T17:00:00Z - To: 17 September 2026
 
-Total Time: 1400 hrs 24 mins
+Total Time: 1404 hrs 21 mins
 
-Dart                      1206 hrs 6 mins 84.55 %
-YAML                      33 hrs 54 mins  2.38 %
-JSON                      28 hrs 22 mins  1.99 %
-Other                     26 hrs 6 mins  1.83 %
-Groovy                    24 hrs 49 mins  1.74 %
-Bash                      18 hrs 48 mins  1.32 %
-XML                       18 hrs 5 mins  1.27 %
+Dart                      1208 hrs 56 mins 84.50 %
+YAML                      33 hrs 55 mins  2.37 %
+JSON                      29 hrs 2 mins  2.03 %
+Other                     26 hrs 24 mins  1.85 %
+Groovy                    24 hrs 50 mins  1.74 %
+Bash                      19 hrs 6 mins  1.34 %
+XML                       18 hrs 5 mins  1.26 %
 Python                    10 hrs 58 mins  0.77 %
-Markdown                  10 hrs 32 mins  0.74 %
-HTML                      6 hrs 57 mins  0.49 %
+Markdown                  10 hrs 34 mins  0.74 %
+HTML                      7 hrs 1 mins  0.49 %
 Java Properties           6 hrs 50 mins  0.48 %
 JavaScript                6 hrs 36 mins  0.46 %
 Go                        4 hrs 49 mins  0.34 %
@@ -51,7 +51,7 @@ TypeScript                4 hrs 36 mins  0.32 %
 CocoaPods                 4 hrs 6 mins  0.29 %
 Git Config                3 hrs 52 mins  0.27 %
 Image (svg)               2 hrs 59 mins  0.21 %
-Text                      2 hrs 12 mins  0.16 %
+Text                      2 hrs 12 mins  0.15 %
 Kotlin                    0 hrs 55 mins  0.06 %
 C                         0 hrs 42 mins  0.05 %
 SQL                       0 hrs 40 mins  0.05 %
@@ -64,8 +64,8 @@ TSConfig                  0 hrs 15 mins  0.02 %
 C++                       0 hrs 10 mins  0.01 %
 CMake                     0 hrs 10 mins  0.01 %
 Prolog                    0 hrs 9 mins  0.01 %
+Makefile                  0 hrs 6 mins  0.01 %
 Batchfile                 0 hrs 5 mins  0.01 %
-Makefile                  0 hrs 5 mins  0.01 %
 CSS                       0 hrs 3 mins  0.00 %
 iCalendar                 0 hrs 3 mins  0.00 %
 Git                       0 hrs 3 mins  0.00 %
