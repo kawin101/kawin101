@@ -30,26 +30,26 @@ https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 26 September 2026
+From: 2024-06-02T17:00:00Z - To: 27 September 2026
 
-Total Time: 1431 hrs 16 mins
+Total Time: 1435 hrs 57 mins
 
-Dart                      1234 hrs 15 mins 84.66 %
-YAML                      34 hrs 5 mins  2.34 %
-JSON                      29 hrs 18 mins  2.01 %
-Other                     26 hrs 32 mins  1.82 %
+Dart                      1238 hrs 18 mins 84.67 %
+YAML                      34 hrs 5 mins  2.33 %
+JSON                      29 hrs 18 mins  2.00 %
+Other                     26 hrs 34 mins  1.82 %
 Groovy                    24 hrs 50 mins  1.70 %
-Bash                      19 hrs 45 mins  1.36 %
+Bash                      20 hrs 22 mins  1.39 %
 XML                       18 hrs 5 mins  1.24 %
 Python                    10 hrs 58 mins  0.75 %
 Markdown                  10 hrs 56 mins  0.75 %
 HTML                      7 hrs 1 mins  0.48 %
 Java Properties           6 hrs 50 mins  0.47 %
-JavaScript                6 hrs 38 mins  0.46 %
+JavaScript                6 hrs 38 mins  0.45 %
 Go                        4 hrs 51 mins  0.33 %
 TypeScript                4 hrs 36 mins  0.32 %
 CocoaPods                 4 hrs 6 mins  0.28 %
-Git Config                3 hrs 52 mins  0.27 %
+Git Config                3 hrs 52 mins  0.26 %
 Image (svg)               2 hrs 59 mins  0.20 %
 Text                      2 hrs 12 mins  0.15 %
 Kotlin                    0 hrs 55 mins  0.06 %
@@ -61,7 +61,7 @@ CSV                       0 hrs 27 mins  0.03 %
 Svelte                    0 hrs 21 mins  0.02 %
 Java                      0 hrs 18 mins  0.02 %
 TSConfig                  0 hrs 15 mins  0.02 %
-C++                       0 hrs 11 mins  0.01 %
+C++                       0 hrs 12 mins  0.01 %
 CMake                     0 hrs 10 mins  0.01 %
 Prolog                    0 hrs 9 mins  0.01 %
 Makefile                  0 hrs 6 mins  0.01 %
