@@ -30,16 +30,16 @@ https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 01 October 2026
+From: 2024-06-02T17:00:00Z - To: 02 October 2026
 
-Total Time: 1442 hrs 8 mins
+Total Time: 1444 hrs 43 mins
 
-Dart                      1243 hrs 53 mins 84.69 %
-YAML                      34 hrs 10 mins  2.33 %
-JSON                      29 hrs 18 mins  2.00 %
-Other                     26 hrs 35 mins  1.81 %
-Groovy                    24 hrs 50 mins  1.69 %
-Bash                      20 hrs 50 mins  1.42 %
+Dart                      1245 hrs 21 mins 84.64 %
+YAML                      34 hrs 15 mins  2.33 %
+JSON                      29 hrs 34 mins  2.01 %
+Other                     26 hrs 37 mins  1.81 %
+Groovy                    25 hrs 11 mins  1.71 %
+Bash                      21 hrs 13 mins  1.44 %
 XML                       18 hrs 5 mins  1.23 %
 Markdown                  10 hrs 59 mins  0.75 %
 Python                    10 hrs 58 mins  0.75 %
@@ -48,7 +48,7 @@ Java Properties           6 hrs 50 mins  0.47 %
 JavaScript                6 hrs 38 mins  0.45 %
 Go                        4 hrs 51 mins  0.33 %
 TypeScript                4 hrs 36 mins  0.31 %
-CocoaPods                 4 hrs 6 mins  0.28 %
+CocoaPods                 4 hrs 7 mins  0.28 %
 Git Config                3 hrs 52 mins  0.26 %
 Image (svg)               2 hrs 59 mins  0.20 %
 Text                      2 hrs 12 mins  0.15 %
@@ -64,8 +64,8 @@ TSConfig                  0 hrs 15 mins  0.02 %
 C++                       0 hrs 12 mins  0.01 %
 CMake                     0 hrs 10 mins  0.01 %
 Prolog                    0 hrs 9 mins  0.01 %
-Makefile                  0 hrs 6 mins  0.01 %
-Batchfile                 0 hrs 5 mins  0.01 %
+Makefile                  0 hrs 7 mins  0.01 %
+Batchfile                 0 hrs 6 mins  0.01 %
 CSS                       0 hrs 3 mins  0.00 %
 iCalendar                 0 hrs 3 mins  0.00 %
 Git                       0 hrs 3 mins  0.00 %
