@@ -30,25 +30,25 @@ https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 02 October 2026
+From: 2024-06-02T17:00:00Z - To: 03 October 2026
 
-Total Time: 1444 hrs 43 mins
+Total Time: 1450 hrs 16 mins
 
-Dart                      1245 hrs 21 mins 84.64 %
-YAML                      34 hrs 15 mins  2.33 %
-JSON                      29 hrs 34 mins  2.01 %
-Other                     26 hrs 37 mins  1.81 %
-Groovy                    25 hrs 11 mins  1.71 %
-Bash                      21 hrs 13 mins  1.44 %
-XML                       18 hrs 5 mins  1.23 %
-Markdown                  10 hrs 59 mins  0.75 %
-Python                    10 hrs 58 mins  0.75 %
+Dart                      1249 hrs 32 mins 84.57 %
+YAML                      34 hrs 24 mins  2.33 %
+JSON                      30 hrs 4 mins  2.04 %
+Other                     27 hrs 16 mins  1.85 %
+Groovy                    25 hrs 11 mins  1.70 %
+Bash                      21 hrs 27 mins  1.45 %
+XML                       18 hrs 5 mins  1.22 %
+Markdown                  10 hrs 59 mins  0.74 %
+Python                    10 hrs 58 mins  0.74 %
 HTML                      7 hrs 1 mins  0.48 %
-Java Properties           6 hrs 50 mins  0.47 %
+Java Properties           6 hrs 52 mins  0.47 %
 JavaScript                6 hrs 38 mins  0.45 %
 Go                        4 hrs 51 mins  0.33 %
 TypeScript                4 hrs 36 mins  0.31 %
-CocoaPods                 4 hrs 7 mins  0.28 %
+CocoaPods                 4 hrs 32 mins  0.31 %
 Git Config                3 hrs 52 mins  0.26 %
 Image (svg)               2 hrs 59 mins  0.20 %
 Text                      2 hrs 12 mins  0.15 %
@@ -70,10 +70,10 @@ CSS                       0 hrs 3 mins  0.00 %
 iCalendar                 0 hrs 3 mins  0.00 %
 Git                       0 hrs 3 mins  0.00 %
 Desktop file              0 hrs 2 mins  0.00 %
+Objective-C               0 hrs 0 mins  0.00 %
 Docker                    0 hrs 0 mins  0.00 %
 Lua                       0 hrs 0 mins  0.00 %
 SCSS                      0 hrs 0 mins  0.00 %
-Objective-C               0 hrs 0 mins  0.00 %
 PowerShell                0 hrs 0 mins  0.00 %
 Cocoa                     0 hrs 0 mins  0.00 %
 INI                       0 hrs 0 mins  0.00 %
