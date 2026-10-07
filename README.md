@@ -16,8 +16,6 @@ https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv
 ### Open Source App
 - [Dog-friendly Hotel Search Web App (Django)](https://github.com/kawin101/Django_E-Commerce)
 - [Shopping App (Flutter, Node.js)](https://github.com/kawin101/flutter-api-shopping-app)
-- [Money Tracker Mobile App (Flutter, Laravel)](https://github.com/kawin101/Flutter-PHP-Laravel-JWT-Income-Expense-Tracker-Mobile-App)
-- [Java Sprint Boot RESTful API](https://github.com/kawin101/Java-Sprint-Boot-REST-API)
 
 ### Weather
 <!-- ใช้เวลา ประเทศไทย UTC +7 -->
