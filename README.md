@@ -28,53 +28,54 @@ https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 08 October 2026
+From: 2024-06-02T17:00:00Z - To: 09 October 2026
 
-Total Time: 1463 hrs 53 mins
+Total Time: 1469 hrs 48 mins
 
-Dart                      1260 hrs 54 mins 84.54 %
-YAML                      34 hrs 26 mins  2.31 %
-JSON                      30 hrs 27 mins  2.04 %
-Other                     27 hrs 33 mins  1.85 %
-Groovy                    25 hrs 11 mins  1.69 %
-Bash                      22 hrs 24 mins  1.50 %
+Dart                      1262 hrs 45 mins 84.32 %
+YAML                      34 hrs 30 mins  2.30 %
+JSON                      30 hrs 29 mins  2.04 %
+Other                     27 hrs 47 mins  1.86 %
+Groovy                    25 hrs 11 mins  1.68 %
+Bash                      22 hrs 40 mins  1.51 %
 XML                       18 hrs 5 mins  1.21 %
-Markdown                  11 hrs 1 mins  0.74 %
-Python                    10 hrs 58 mins  0.74 %
-HTML                      7 hrs 45 mins  0.52 %
+Python                    12 hrs 41 mins  0.85 %
+Markdown                  12 hrs 28 mins  0.83 %
+HTML                      7 hrs 49 mins  0.52 %
 Java Properties           6 hrs 52 mins  0.46 %
-JavaScript                6 hrs 38 mins  0.45 %
-Go                        4 hrs 51 mins  0.33 %
+JavaScript                6 hrs 38 mins  0.44 %
+Go                        4 hrs 51 mins  0.32 %
 CocoaPods                 4 hrs 38 mins  0.31 %
 TypeScript                4 hrs 36 mins  0.31 %
-Git Config                3 hrs 52 mins  0.26 %
+Git Config                3 hrs 53 mins  0.26 %
 Image (svg)               2 hrs 59 mins  0.20 %
-Text                      2 hrs 12 mins  0.15 %
+Text                      2 hrs 16 mins  0.15 %
 Kotlin                    0 hrs 55 mins  0.06 %
 C                         0 hrs 42 mins  0.05 %
 Swift                     0 hrs 41 mins  0.05 %
 SQL                       0 hrs 40 mins  0.05 %
 PHP                       0 hrs 31 mins  0.04 %
-CSV                       0 hrs 27 mins  0.03 %
+CSV                       0 hrs 28 mins  0.03 %
+C++                       0 hrs 26 mins  0.03 %
 Svelte                    0 hrs 21 mins  0.02 %
 Java                      0 hrs 18 mins  0.02 %
 TSConfig                  0 hrs 15 mins  0.02 %
-C++                       0 hrs 12 mins  0.01 %
 CMake                     0 hrs 10 mins  0.01 %
 Prolog                    0 hrs 9 mins  0.01 %
 Makefile                  0 hrs 7 mins  0.01 %
+TOML                      0 hrs 6 mins  0.01 %
 Batchfile                 0 hrs 6 mins  0.01 %
 CSS                       0 hrs 3 mins  0.00 %
 iCalendar                 0 hrs 3 mins  0.00 %
 Git                       0 hrs 3 mins  0.00 %
 Desktop file              0 hrs 2 mins  0.00 %
+Docker                    0 hrs 1 mins  0.00 %
 Objective-C               0 hrs 0 mins  0.00 %
-Docker                    0 hrs 0 mins  0.00 %
 Lua                       0 hrs 0 mins  0.00 %
 SCSS                      0 hrs 0 mins  0.00 %
+INI                       0 hrs 0 mins  0.00 %
 PowerShell                0 hrs 0 mins  0.00 %
 Cocoa                     0 hrs 0 mins  0.00 %
-INI                       0 hrs 0 mins  0.00 %
 Todotxt                   0 hrs 0 mins  0.00 %
 GraphQL                   0 hrs 0 mins  0.00 %
 Ruby                      0 hrs 0 mins  0.00 %
