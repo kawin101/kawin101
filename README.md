@@ -28,19 +28,19 @@ https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 09 October 2026
+From: 2024-06-02T17:00:00Z - To: 10 October 2026
 
-Total Time: 1469 hrs 48 mins
+Total Time: 1474 hrs 30 mins
 
-Dart                      1262 hrs 45 mins 84.32 %
-YAML                      34 hrs 30 mins  2.30 %
-JSON                      30 hrs 29 mins  2.04 %
-Other                     27 hrs 47 mins  1.86 %
+Dart                      1264 hrs 44 mins 84.18 %
+YAML                      34 hrs 38 mins  2.31 %
+JSON                      30 hrs 43 mins  2.05 %
+Other                     27 hrs 51 mins  1.85 %
 Groovy                    25 hrs 11 mins  1.68 %
-Bash                      22 hrs 40 mins  1.51 %
-XML                       18 hrs 5 mins  1.21 %
-Python                    12 hrs 41 mins  0.85 %
-Markdown                  12 hrs 28 mins  0.83 %
+Bash                      23 hrs 15 mins  1.55 %
+XML                       18 hrs 5 mins  1.20 %
+Python                    13 hrs 46 mins  0.92 %
+Markdown                  12 hrs 57 mins  0.86 %
 HTML                      7 hrs 49 mins  0.52 %
 Java Properties           6 hrs 52 mins  0.46 %
 JavaScript                6 hrs 38 mins  0.44 %
@@ -53,27 +53,29 @@ Text                      2 hrs 16 mins  0.15 %
 Kotlin                    0 hrs 55 mins  0.06 %
 C                         0 hrs 42 mins  0.05 %
 Swift                     0 hrs 41 mins  0.05 %
-SQL                       0 hrs 40 mins  0.05 %
+SQL                       0 hrs 40 mins  0.04 %
 PHP                       0 hrs 31 mins  0.04 %
 CSV                       0 hrs 28 mins  0.03 %
 C++                       0 hrs 26 mins  0.03 %
 Svelte                    0 hrs 21 mins  0.02 %
 Java                      0 hrs 18 mins  0.02 %
 TSConfig                  0 hrs 15 mins  0.02 %
+Makefile                  0 hrs 13 mins  0.02 %
+TOML                      0 hrs 12 mins  0.01 %
 CMake                     0 hrs 10 mins  0.01 %
 Prolog                    0 hrs 9 mins  0.01 %
-Makefile                  0 hrs 7 mins  0.01 %
-TOML                      0 hrs 6 mins  0.01 %
 Batchfile                 0 hrs 6 mins  0.01 %
 CSS                       0 hrs 3 mins  0.00 %
 iCalendar                 0 hrs 3 mins  0.00 %
 Git                       0 hrs 3 mins  0.00 %
 Desktop file              0 hrs 2 mins  0.00 %
 Docker                    0 hrs 1 mins  0.00 %
+Nginx configuration file  0 hrs 0 mins  0.00 %
 Objective-C               0 hrs 0 mins  0.00 %
 Lua                       0 hrs 0 mins  0.00 %
 SCSS                      0 hrs 0 mins  0.00 %
 INI                       0 hrs 0 mins  0.00 %
+Mako                      0 hrs 0 mins  0.00 %
 PowerShell                0 hrs 0 mins  0.00 %
 Cocoa                     0 hrs 0 mins  0.00 %
 Todotxt                   0 hrs 0 mins  0.00 %
