@@ -28,19 +28,19 @@ https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 14 October 2026
+From: 2024-06-02T17:00:00Z - To: 15 October 2026
 
-Total Time: 1484 hrs 39 mins
+Total Time: 1488 hrs 0 mins
 
-Dart                      1271 hrs 35 mins 84.07 %
-YAML                      34 hrs 44 mins  2.30 %
-JSON                      31 hrs 9 mins  2.06 %
-Other                     27 hrs 55 mins  1.85 %
-Groovy                    25 hrs 11 mins  1.67 %
-Bash                      24 hrs 32 mins  1.62 %
-XML                       18 hrs 5 mins  1.20 %
-Python                    14 hrs 16 mins  0.94 %
-Markdown                  13 hrs 24 mins  0.89 %
+Dart                      1272 hrs 20 mins 83.92 %
+YAML                      34 hrs 45 mins  2.29 %
+JSON                      31 hrs 28 mins  2.08 %
+Other                     28 hrs 4 mins  1.85 %
+Bash                      25 hrs 31 mins  1.68 %
+Groovy                    25 hrs 11 mins  1.66 %
+XML                       18 hrs 5 mins  1.19 %
+Markdown                  14 hrs 30 mins  0.96 %
+Python                    14 hrs 24 mins  0.95 %
 HTML                      8 hrs 7 mins  0.54 %
 Java Properties           6 hrs 52 mins  0.45 %
 JavaScript                6 hrs 38 mins  0.44 %
@@ -54,11 +54,11 @@ Kotlin                    0 hrs 55 mins  0.06 %
 C                         0 hrs 42 mins  0.05 %
 Swift                     0 hrs 41 mins  0.05 %
 SQL                       0 hrs 40 mins  0.04 %
-PHP                       0 hrs 31 mins  0.04 %
+PHP                       0 hrs 31 mins  0.03 %
 CSV                       0 hrs 28 mins  0.03 %
 C++                       0 hrs 26 mins  0.03 %
+TOML                      0 hrs 22 mins  0.02 %
 Svelte                    0 hrs 21 mins  0.02 %
-TOML                      0 hrs 20 mins  0.02 %
 Java                      0 hrs 18 mins  0.02 %
 TSConfig                  0 hrs 15 mins  0.02 %
 Makefile                  0 hrs 13 mins  0.02 %
