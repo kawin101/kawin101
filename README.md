@@ -28,35 +28,35 @@ https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 17 October 2026
+From: 2024-06-02T17:00:00Z - To: 18 October 2026
 
-Total Time: 1498 hrs 7 mins
+Total Time: 1502 hrs 47 mins
 
-Dart                      1279 hrs 38 mins 83.83 %
-YAML                      34 hrs 45 mins  2.28 %
-JSON                      32 hrs 40 mins  2.14 %
-Other                     28 hrs 21 mins  1.86 %
-Bash                      26 hrs 1 mins  1.71 %
-Groovy                    25 hrs 11 mins  1.65 %
-XML                       18 hrs 5 mins  1.19 %
-Markdown                  15 hrs 0 mins  0.98 %
+Dart                      1283 hrs 17 mins 83.81 %
+YAML                      34 hrs 45 mins  2.27 %
+JSON                      32 hrs 40 mins  2.13 %
+Other                     28 hrs 22 mins  1.85 %
+Bash                      26 hrs 14 mins  1.71 %
+Groovy                    25 hrs 11 mins  1.64 %
+XML                       18 hrs 5 mins  1.18 %
+Markdown                  15 hrs 6 mins  0.99 %
 Python                    14 hrs 50 mins  0.97 %
 HTML                      8 hrs 17 mins  0.54 %
 Java Properties           6 hrs 52 mins  0.45 %
-JavaScript                6 hrs 38 mins  0.44 %
-Go                        4 hrs 51 mins  0.32 %
+JavaScript                6 hrs 38 mins  0.43 %
+Go                        5 hrs 19 mins  0.35 %
 CocoaPods                 4 hrs 38 mins  0.30 %
 TypeScript                4 hrs 36 mins  0.30 %
-Git Config                3 hrs 53 mins  0.26 %
+Git Config                3 hrs 58 mins  0.26 %
 Image (svg)               2 hrs 59 mins  0.20 %
-Text                      2 hrs 22 mins  0.16 %
+Text                      2 hrs 22 mins  0.15 %
 Kotlin                    0 hrs 55 mins  0.06 %
 C                         0 hrs 42 mins  0.05 %
 Swift                     0 hrs 41 mins  0.05 %
 SQL                       0 hrs 40 mins  0.04 %
+C++                       0 hrs 35 mins  0.04 %
 PHP                       0 hrs 31 mins  0.03 %
 CSV                       0 hrs 28 mins  0.03 %
-C++                       0 hrs 26 mins  0.03 %
 TOML                      0 hrs 22 mins  0.02 %
 Svelte                    0 hrs 21 mins  0.02 %
 Java                      0 hrs 18 mins  0.02 %
