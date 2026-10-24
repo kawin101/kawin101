@@ -28,21 +28,21 @@ https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
 ```txt
-From: 2024-06-02T17:00:00Z - To: 23 October 2026
+From: 2024-06-02T17:00:00Z - To: 24 October 2026
 
-Total Time: 1515 hrs 7 mins
+Total Time: 1519 hrs 1 mins
 
-Dart                      1291 hrs 14 mins 83.61 %
-YAML                      35 hrs 26 mins  2.30 %
-JSON                      32 hrs 57 mins  2.13 %
+Dart                      1293 hrs 16 mins 83.53 %
+YAML                      35 hrs 31 mins  2.29 %
+JSON                      32 hrs 59 mins  2.13 %
 Other                     29 hrs 15 mins  1.89 %
-Bash                      28 hrs 9 mins  1.82 %
+Bash                      29 hrs 12 mins  1.89 %
 Groovy                    25 hrs 13 mins  1.63 %
-XML                       18 hrs 5 mins  1.17 %
-Markdown                  15 hrs 27 mins  1.00 %
-Python                    14 hrs 50 mins  0.96 %
-HTML                      8 hrs 22 mins  0.54 %
-Java Properties           6 hrs 52 mins  0.45 %
+XML                       18 hrs 9 mins  1.17 %
+Markdown                  15 hrs 31 mins  1.00 %
+Python                    15 hrs 13 mins  0.98 %
+HTML                      8 hrs 31 mins  0.55 %
+Java Properties           6 hrs 52 mins  0.44 %
 JavaScript                6 hrs 42 mins  0.43 %
 Go                        5 hrs 19 mins  0.34 %
 TypeScript                4 hrs 58 mins  0.32 %
@@ -53,7 +53,7 @@ Text                      2 hrs 22 mins  0.15 %
 Kotlin                    1 hrs 9 mins  0.07 %
 SQL                       0 hrs 46 mins  0.05 %
 C                         0 hrs 42 mins  0.05 %
-Swift                     0 hrs 41 mins  0.05 %
+Swift                     0 hrs 41 mins  0.04 %
 C++                       0 hrs 35 mins  0.04 %
 PHP                       0 hrs 31 mins  0.03 %
 CSV                       0 hrs 28 mins  0.03 %
@@ -66,8 +66,8 @@ CMake                     0 hrs 10 mins  0.01 %
 Prolog                    0 hrs 9 mins  0.01 %
 CSS                       0 hrs 7 mins  0.01 %
 Batchfile                 0 hrs 6 mins  0.01 %
-iCalendar                 0 hrs 3 mins  0.00 %
 Git                       0 hrs 3 mins  0.00 %
+iCalendar                 0 hrs 3 mins  0.00 %
 Desktop file              0 hrs 2 mins  0.00 %
 PowerShell                0 hrs 1 mins  0.00 %
 Docker                    0 hrs 1 mins  0.00 %
