@@ -1,7 +1,3 @@
-# Hi, I'm Green.
-- I'm a Flutter developer building mobile and desktop apps for iOS, Android, and Linux.
-- At PTT Digital, I develop POS apps for retail stores, gas stations, and coffee shops, published on the App Store, Google Play, and a private app store.
-
 ### CV
 https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv_kawinphop_chomnikorn.pdf
 
