@@ -1,11 +1,8 @@
 ### Hi, I'm Green
 Flutter developer with 2 years of experience building mobile and desktop apps for iOS, Android, and Linux. At PTT Digital, I develop POS apps for retail stores, gas stations, and coffee shops. Previously, I led the mobile team at Botnoi, working on "Botnoi Voice – Text to Speech" and "AI Friend Hub" for iOS and Android. I'm passionate about user-friendly interfaces, user experience, high-performance code, software testing, and launching products to global marketplaces. I hold a B.Sc. in Computer Science from Khon Kaen University.
 
-### CV
-https://github.com/kawin101/kawin101.github.io/blob/main/legacy_backup/assets/cv_kawinphop_chomnikorn.pdf
-
 ### Contact
-- Website: https://kawin101.github.io/
+- Website Resume: https://kawin101.github.io/
 - E-mail: kawinphop.chomnikorn@gmail.com
 
 ### Company App
