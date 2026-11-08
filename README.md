@@ -15,14 +15,14 @@ Flutter developer with 2 years of experience building mobile and desktop apps fo
 - [Shopping App (Flutter, Node.js)](https://github.com/kawin101/flutter-api-shopping-app)
 
 ### Weather
-<!-- ใช้เวลา ประเทศไทย UTC +7 -->
-🕒 **Date/Time:** 2026-11-08 09:04:36<br>
-🌡️ **Temperature:** 🌤️ 27.5°C<br>
-💨 **Wind Speed:** 13.4 km/h<br>
+<!-- Bangkok Timezone UTC +7 -->
+**Date/Time:** 2026-11-08 09:04:36<br>
+**Temperature:** 27.5°C<br>
+**Wind Speed:** 13.4 km/h<br>
 
 <!--WEATHER_UPDATE-->
 
-## 💻 CODING STATS 
+## Coding Stats 
 <!--START_SECTION:waka-->
 ```txt
 From: 2024-06-02T17:00:00Z - To: 01 November 2026
