@@ -26,31 +26,17 @@ def get_weather():
         print(f"Error fetching weather data: {response.status_code}")
         return None
 
-def get_temperature_icon(temperature):
-    if temperature < 0:
-        return "❄️"
-    elif temperature < 10:
-        return "🥶"
-    elif temperature < 20:
-        return "🧥"
-    elif temperature < 30:
-        return "🌤️"
-    else:
-        return "🔥"
-
 def update_readme(weather):
     # กำหนด timezone เป็น UTC+7 (Asia/Bangkok)
     bangkok_tz = pytz.timezone("Asia/Bangkok")
     current_time = datetime.now(bangkok_tz).strftime("%Y-%m-%d %H:%M:%S")
 
-    temperature_icon = get_temperature_icon(weather['temperature'])
-
     weather_info = (
         f"### Weather\n"
-        f"<!-- ใช้เวลา ประเทศไทย UTC +7 -->\n"  # ✅ แก้ไขข้อความตามที่ต้องการ
-        f"🕒 **Date/Time:** {current_time}<br>\n"
-        f"🌡️ **Temperature:** {temperature_icon} {weather['temperature']}°C<br>\n"
-        f"💨 **Wind Speed:** {weather['windspeed']} km/h<br>\n"
+        f"<!-- Bangkok Timezone UTC +7 -->\n" 
+        f" **Date/Time:** {current_time}<br>\n"
+        f" **Temperature:** {weather['temperature']}°C<br>\n"
+        f" **Wind Speed:** {weather['windspeed']} km/h<br>\n"
     )
 
     start_marker = "### Weather"
