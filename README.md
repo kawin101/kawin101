@@ -16,9 +16,9 @@ Flutter developer with 2 years of experience building mobile and desktop apps fo
 
 ### Weather
 <!-- ใช้เวลา ประเทศไทย UTC +7 -->
-🕒 **Date/Time:** 2026-11-07 23:45:09<br>
-🌡️ **Temperature:** 🌤️ 24.6°C<br>
-💨 **Wind Speed:** 5.8 km/h<br>
+🕒 **Date/Time:** 2026-11-08 09:04:36<br>
+🌡️ **Temperature:** 🌤️ 27.5°C<br>
+💨 **Wind Speed:** 13.4 km/h<br>
 
 <!--WEATHER_UPDATE-->
 
